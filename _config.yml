@@ -23,6 +23,11 @@ lang: en
 author: Gerald W. Pachlatko
 email: gwpachlatko@gmail.com
 description: A collection of articles centering on possible approaches and solutions to a variety of common issues.
+header_pages:
+  - categories.md
+  - tags.md
+  - about.md
+  - gdpr.md
 show_excerpts: true
 excerpt_separator: <!--more-->
 baseurl: "/anything-goes" # the subpath of your site, e.g. /blog
