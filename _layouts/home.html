@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="front-wrapper">
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  {{ content }}
+  {%- if site.posts.size > 0 -%}
+    <div class="front-page">
+      {%- for post in site.posts -%}
+      <article class="teaser">
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h2>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <p class="post-meta">{{ post.date | date: date_format }} —
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  Published in: <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category | capitalize }}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+        </p>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+        {% include readon.html %}
+      </article>
+      {%- endfor -%}
+    </div><!-- /front-page -->
+    <p class="rss-subscribe">subscribe <a class="tag" href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+</div><!-- /home -->

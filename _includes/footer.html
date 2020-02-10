@@ -1,0 +1,25 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <h2 class="footer-heading"><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h2>
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <ul>
+          <li>
+            {%- if site.author -%}
+              by {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a title="shoot me an e–mail" class="tag" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+                      {%- include social.html -%}
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+  </div>
+</footer>

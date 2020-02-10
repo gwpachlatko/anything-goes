@@ -1,0 +1,23 @@
+<div class="postmeta">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <p>Published on {{ page.date | date: "%-d %B %Y" }} in <a href="{{ site.baseurl }}/categories/#{{ category | slugize }}">{{ category | capitalize }}</a><p>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  <p>Tags:&nbsp;
+  {% for tag in tags %}
+  <a class="tag" href="{{ site.baseurl }}/tags/#{{ tag | slugize }}">{{ tag }}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </p>
+</div><!-- /postmeta -->
