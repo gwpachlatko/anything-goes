@@ -1,0 +1,3 @@
+# Anything Goes …
+A collection of articles centering on possible approaches and solutions to a variety of common issues.
+Visit website of [Anything Goes …](https://gwpachlatko.github.io/anything-goes)
