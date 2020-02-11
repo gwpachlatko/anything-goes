@@ -31,7 +31,7 @@ header_pages:
 show_excerpts: true
 excerpt_separator: <!--more-->
 baseurl: "/anything-goes" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gwpachlatko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gwpachlatko
 linkedin_username: gerald-w-pachlatko
 # Disqus Comments
