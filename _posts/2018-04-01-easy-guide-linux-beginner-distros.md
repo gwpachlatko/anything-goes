@@ -4,7 +4,7 @@ title: "Linux Is Good for You, Part 4: How to Find the Right Linux–based Opera
 date: 2018-04-01 14:31:29 +0100
 description: To find the operating system just right for your needs, you need to know more about your computer and yourself.
 category: software
-tags: [Linux, Operating System, Beginner Distros]
+tags: [Linux, OperatingSystem, BeginnerDistros]
 ---
 I cringe every time I hear or read the term “beginner distro” randomly used. Even more so, when I eventually read the lists of distros allegedly better suited for “newbies”. Don’t get me wrong, I don’t mean to call anyone out, but the unreflected assumption that new users will feel easier “at home” the more polished the Graphical User Interface (<abbr>GUI</abbr>), or the better the innards of the operating system are hidden from the user, is absurd.<!--more-->
 

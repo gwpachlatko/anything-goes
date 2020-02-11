@@ -4,7 +4,7 @@ title: Rainy Afternoon or Why I Switched to Yellow
 date: 2017-06-04 14:31:29 +0100
 description: If you want to run a blog with a flat-file CMS, you definitely should consider Yellow.
 category: software
-tags: [Yellow, CMS, Flat-File, WordPress, Grav, TYPEMILL]
+tags: [Yellow, CMS, FlatFile, WordPress, Grav, TYPEMILL]
 ---
 
 I have been toying with the idea of switching to another Content Management System (<abbr>CMS</abbr>) for quite a while. It was my general reluctance to change working systems that kept me from making the move earlier. Truth be told, I’m not much of a status–driven person, I don’t care for the brand of my cars and even less for what people have to say about the software I employ to manage my writing. Whatever works with a minimum of fuss is fine and dandy.<!--more-->

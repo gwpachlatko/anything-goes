@@ -4,7 +4,7 @@ title: "Linux Is Good for You, Part 1: Which Linux–Based Operating System Best
 date: 2018-03-29 14:31:29 +0100
 description: What Linux-based operating system best to install on Chromebooks when ChromeOS is not an option.
 category: software
-tags: [Linux, Operating System, Chromebooks]
+tags: [Linux, OperatingSystem, Chromebooks]
 ---
 Not so long ago, Molly posed an interesting question, asking which Linux–based operating best to install on a Chromebook to replace Chrome<abbr>OS</abbr>. Finding an answer to this question is not as easy and straightforward a quest as one might expect.<!--more-->
 

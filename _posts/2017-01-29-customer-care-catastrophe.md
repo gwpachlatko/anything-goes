@@ -4,7 +4,7 @@ title:  Customer Care Catastrophe
 date:   2017-01-29 14:31:29 +0100
 description: In theory, I’m every customer care agent’s wet dream. In practice, I seem to be most customer care agents’ worst nightmare.
 category: business
-tags: [Web Hosting, Customer Care]
+tags: [WebHosting, CustomerCare]
 ---
 In theory, I’m every customer care agent’s wet dream. I read the fine print of contracts, I plough through manuals and tutorials, and I consult <abbr title="Frequently Asked Questions">FAQs</abbr> and forums to gather relevant information. Only if educated guesswork and common sense fail me utterly, I contact help desks.<!--more-->
 

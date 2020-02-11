@@ -4,7 +4,7 @@ title: "Linux Is Good for You, Part 2: Is Debian too Difficult to Install?"
 date: 2018-03-30 14:31:29 +0100
 description: Is Debian too hard to install (or at least harder than others)?
 category: software
-tags: [Linux, Operating System, Debian, Arch Linux]
+tags: [Linux, OperatingSystem, Debian, ArchLinux]
 ---
 While researching the matter to find the proper answer to Molly’s question (<a href="{{ site.baseurl }}{% post_url 2018-03-29-easy-guide-linux-chromebooks %}">Linux–based operating system to replace Chrome<abbr>OS</abbr></a>), I came across a speech Linus Torvalds gave a while ago, stating that he doesn’t use Debian, “because it’s too difficult to install”.<!--more-->
 

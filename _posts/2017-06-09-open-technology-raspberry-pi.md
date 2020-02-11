@@ -4,7 +4,7 @@ title: "Open Technology: One Board to Rule Them All"
 date: 2017-06-09 14:31:29 +0100
 description: Why the Raspberry Pi, a single–board computer developed to teach school children the fine art of coding, is a practical example of how open technology could work; discussing the pi-top and pi-top Ceed.
 category: technology
-tags: [Open Technology, Raspberry Pi]
+tags: [OpenTechnology, RaspberryPi]
 ---
 If you happen to be only a bit like me, you have been yearning for the day when useful technology would be affordable even for the less fortunate; help us save resources and money; reduce the distance between either end of the world to milliseconds rather than seconds, minutes, or even hours; ease the pain of daily chores by way of more efficient communication and co–operation, and so let us squeeze a bit of extra time out of every day to spend with people and things most precious to us.<!--more-->
 

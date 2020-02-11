@@ -4,7 +4,7 @@ title: "Open Technology: Breaking Free"
 date: 2017-06-05 14:31:29 +0100
 description: A vindication of the use of open technology.
 category: technology
-tags: [Open Technology, Opinion]
+tags: [OpenTechnology, Opinion]
 ---
 What does it take to enjoy “Open Technology”? Is there a definition that actually makes sense? What’s wrong with the present state of technology? And, perhaps most important, why should we even care? After reading a rather phoney essay on the technological prospects of the foreseeable future, these questions kept me occupied for several weeks.<!--more-->
 

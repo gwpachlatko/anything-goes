@@ -4,7 +4,7 @@ title: Dual–Booting Ubuntu and Windows 10
 date: 2017-11-27 14:31:29 +0100
 description: A no–nonsense tutorial to successfully dual–boot Windows 10 and Ubuntu (and others).
 category: software
-tags: [Ubuntu, Linux, Windows, Operating System]
+tags: [Ubuntu, Linux, Windows, OperatingSystem]
 ---
 Quite recently, it came to my attention that a considerable number of people try (and fail) to run Linux–based and Windows operating systems in dual–boot mode on their computers. I tried it myself (just for the heck of it), and here’s how I made such a combination work without major glitches in virtually no time.<!--more-->
 

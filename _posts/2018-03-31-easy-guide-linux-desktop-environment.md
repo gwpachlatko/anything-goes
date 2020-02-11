@@ -4,7 +4,7 @@ title: "Linux Is Good for You, Part 3: The Desktop Environment May Be more Impor
 date: 2018-03-31 14:31:29 +0100
 description: Which desktop environment you use may be more relevant than your choice of operating system.
 category: software
-tags: [Linux, Operating System, Desktop Environments]
+tags: [Linux, OperatingSystem, DesktopEnvironments]
 ---
 One of the big advantages of using a Linux–based operating system (<abbr>OS</abbr>) is that one may choose from a wealth of desktop environments (<abbr>DE</abbr>). Selecting the one that is best for your needs may be more important even than your choice of <abbr>OS</abbr>.<!--more-->
 

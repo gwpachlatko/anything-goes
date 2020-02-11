@@ -4,7 +4,7 @@ title: "Linux Is Good for You, Part 0: Introduction"
 date: 2018-03-28 14:31:29 +0100
 description: A non–exhaustive guide to find the Linux-based operating system that is just right for you.
 category: software
-tags: [Linux, Operating System]
+tags: [Linux, OperatingSystem]
 ---
 This small series is the result of a week of intensively testing a number of Linux–based operating systems. It was inspired by two of my “digital heroes” (totally unbeknown to them, though): <a rel="external" title="Get to know Molly on Wikipedia" href="https://en.wikipedia.org/wiki/Molly_Holzschlag">Molly E. Holzschlag</a>, one of the women who constantly stir and shake to make the web open and a nicer place to visit, and <a rel="external" title="Get to know Linus on Wikipedia" href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>, the man who proved that computers may work efficiently — if only the software running them is written properly.<!--more-->
 
