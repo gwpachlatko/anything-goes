@@ -18,9 +18,10 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {%- include postmeta.html -%}
+
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
   </div><!-- /post-content -->
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article><!-- /post -->
-{%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-{%- endif -%}
