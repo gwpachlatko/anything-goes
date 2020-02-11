@@ -6,7 +6,9 @@ description: To find the operating system just right for your needs, you need to
 category: software
 tags: [Linux, OperatingSystem, BeginnerDistros]
 ---
-I cringe every time I hear or read the term “beginner distro” randomly used. Even more so, when I eventually read the lists of distros allegedly better suited for “newbies”. Don’t get me wrong, I don’t mean to call anyone out, but the unreflected assumption that new users will feel easier “at home” the more polished the Graphical User Interface (<abbr>GUI</abbr>), or the better the innards of the operating system are hidden from the user, is absurd.<!--more-->
+I cringe every time I hear or read the term “beginner distro” randomly used. Even more so, when I eventually read the lists of distros allegedly better suited for “newbies”.<!--more-->
+
+Don’t get me wrong, I don’t mean to call anyone out, but the unreflected assumption that new users will feel easier “at home” the more polished the Graphical User Interface (<abbr>GUI</abbr>), or the better the innards of the operating system are hidden from the user, is absurd.
 
 Even leisurely browsing help forums across the Internet, you will quickly realise that new users of any one operating system have the same (or at least stunningly similar) issues. So much so, that a query in your search engine of choice is very likely to present you with “solutions” for an operating system utterly different from your own — sometimes even when you have the mind to particularly state your system.
 
