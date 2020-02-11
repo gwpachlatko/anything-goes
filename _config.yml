@@ -34,6 +34,11 @@ baseurl: "/anything-goes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gwpachlatko
 linkedin_username: gerald-w-pachlatko
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: gwpanything
 minima:
   date_format: "%A, %-d %B, %Y"
 # Build settings

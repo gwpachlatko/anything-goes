@@ -25,7 +25,7 @@ I had not become a Debian user by choice but rather by circumstance. Tired of th
 
 It happened to be one of Debian’s derivates. Installing it was a easy as pie and it gave me no headaches during daily work; I simply had no need to look any further. Perhaps, I was biased. I had to find out.
 
-So I tested nine randomly picked operating systems and eight desktop environments. Here’s a list in no particular order (terms in parentheses indicate the desktop environments tested with the repective <abbr>OS</abbr>):
+So I tested nine randomly picked operating systems and eight desktop environments. Here’s a list in no particular order (terms in parentheses indicate the desktop environments tested with the respective <abbr>OS</abbr>):
 
 <ul>
 <li><a rel="external" title="home page of Debian" href="https://www.debian.org/">Debian 9</a> (Gnome 3, <abbr>Xfce</abbr>)</li>
