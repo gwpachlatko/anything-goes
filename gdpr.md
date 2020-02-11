@@ -10,10 +10,10 @@ Except for “<a title="see source code on GitHub" href="https://github.com/jeky
 <h3>Fonts</h3>
 I do reference Google Fonts, but I honestly fail to see how Google could possibly benefit from knowing that any individual visited a site employing fonts they provide.
 <h3>Comments</h3>
-I may (or may not) include a comment feature in the future. If so, it will be a service called <a rel="external" title="Visit Disqus’ homepage" href="https://disqus.com/">Disqus</a>. It not only is the quasi–standard for Static Site Generators, it also is a convenient means to keep trolls in their caves. All comments contributed through this service are publicly accessible and associated to the respective user. Here’s <a rel="external" title="link to Disqus’ Privacy Policy" href="https://help.disqus.com/en/articles/1717103-disqus-privacy-policy">how Disqus handles user data</a> (their <a rel="external" title="link to Disqus’ Cookie Policy" href="https://disqus.com/data-sharing-settings/">Cookie Policy</a>).
+I do employ a service called <a rel="external" title="Visit Disqus’ homepage" href="https://disqus.com/">Disqus</a> for comments. It not only is the quasi–standard for Static Site Generators, it also is a convenient means to keep trolls in their caves. All comments contributed through this service are publicly accessible and associated to the respective user. Here’s <a rel="external" title="link to Disqus’ Privacy Policy" href="https://help.disqus.com/en/articles/1717103-disqus-privacy-policy">how Disqus handles user data</a> (and their <a rel="external" title="link to Disqus’ Cookie Policy" href="https://disqus.com/data-sharing-settings/">Cookie Policy</a>).
 <h3>One–To–One Communication</h3>
 If you decide to contact me via e–mail, please know that I tend to delete e–mail addresses and content of one–off contacts immediately after communication is complete. Consequently, it is quite possible that I won’t recognise you from “last time” you shot me a mail. This has not to do with data protection, but is a means to prevent clutter.
 <h3>Server and Source Code</h3>
-This website is hosted by GitHub. See <a title="link to GitHub’s Privacy Statement" href="https://help.github.com/en/github/site-policy/github-privacy-statement">how GitHub handles user data</a>. The [source code of this website](https://github.com/gwpachlatko/anything-goes) is publicly available. 
+This website is hosted by GitHub. See <a title="link to GitHub’s Privacy Statement" href="https://help.github.com/en/github/site-policy/github-privacy-statement">how GitHub handles user data</a>. The [source code of this website](https://github.com/gwpachlatko/anything-goes) is publicly available.
 
-This page was updated on 10 February, 2020.
+This page was updated on 11 February, 2020.
