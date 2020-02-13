@@ -62,7 +62,7 @@ list all posts sharing a certain tag
 	 {% for post in site.posts %}
 		 {% if post.tags contains tag %}
 		 <dd>
-		 <a href="{{ post.url }}">
+		 <a href="{{site.baseurl}}{{ post.url }}">
 		 {{ post.title }}</a> <small>on {{ post.date | date_to_string }}</small>
 		</dd>
 		 {% endif %}

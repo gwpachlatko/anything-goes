@@ -35,7 +35,7 @@ The following part removes dulpicated categories and invalid categories like bla
 	 {% for post in site.posts %}
 		 {% if post.categories contains category %}
 		 <dd><p>
-		 <a title="Read article: {{ post.title }}" href="{{ post.url }}">
+		 <a title="Read article: {{ post.title }}" href="{{site.baseurl}}{{ post.url }}">
 		 {{ post.title }}</a> <small>on {{ post.date | date_to_string }}</small></p>
 	   </dd>
 
