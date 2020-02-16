@@ -9,7 +9,7 @@ tags: [Artists, Publishing, Writing, Respect]
 I guess a lot of writers dread the thought of receiving rejection letters. I don’t. It’s only natural that we (and our works) don’t meet with universal appreciation. Respect (or rather, common courtesy) I do expect (as much as I’m prepared to pay it), but I cannot possibly hope for everyone to like me or my accomplishments.<!--more-->
 
 <figure>
-<p><img src="{{site.baseurl}}/assets/images/rejection-letter.png" alt="rejection letter" /></p>
+<p><img src="{{site.baseurl}}/assets/images/rejection-letter.png" alt="rejection letter" alt="facsimile of a handwritten letter" /></p>
 <figcaption><p>The pen is mightier than the sword, Font: “James Fajardo”</p></figcaption>
 </figure>
 
