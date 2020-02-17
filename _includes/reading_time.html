@@ -1,6 +1,0 @@
-{% assign words = content | number_of_words %}
- {% if words < 360 %}
-   1 <abbr>min</abbr> read
- {% else %}
-   {{ words | divided_by:180 }} <abbr>mins.</abbr> read
- {% endif %}
