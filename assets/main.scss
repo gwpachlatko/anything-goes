@@ -53,6 +53,7 @@ dd { margin: 1em; border-bottom: 1px #eee solid; }
 blockquote {color: #111; border-left: 5px solid #eee; font-size: 1em; letter-spacing: 1px; }
 figcaption { font-size: .809em; }
 figcaption p.person:before { content:"\2014 " }
+sup, sub { font-size: 14px; }
 
 .footer-heading { margin-bottom: .809em; text-align: left; font-size: 1.1em; }
 .footer-col-wrapper { color: #000; font-size: .809em; }
