@@ -37,6 +37,7 @@ h2, h3 { font-family: "Abril Fatface", serif; text-align: center; }
 h1 a:link { color: #fff; text-decoration: underline; }
 h2 a:link { color: #111; text-decoration: none; }
 h2 a:hover { color: #900; }
+h4 { font-family: "Abril Fatface", serif; font-size: 20px; text-align: center; }
 a:link { color: #900; text-decoration: underline }
 a:hover { color: #111; text-decoration: none; }
 a:visited { color: #111; text-decoration: underline; }
@@ -44,6 +45,7 @@ a:link.tag { margin: 0 .405em; padding: .203em .405em; background: #600; color: 
 a:hover.tag { color: #111; background: #fff; text-decoration: none; border: 1px #eee solid; }
 a:visited.tag { color: #fff; background: #111; border: 1px #111 solid; }
 .post-title { font-size: 2.427em; line-height: 1.3em; margin-bottom: .809em; }
+.post-content ul li { padding-left: 25px; background: url(images/bullet.png) left 10px no-repeat ; list-style-type: none;}
 dt { border-bottom: 1px #333 solid; }
 dd { margin: 1em; border-bottom: 1px #eee solid; }
 .site-header a:link { text-decoration: none; }
