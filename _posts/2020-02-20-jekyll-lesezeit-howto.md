@@ -10,7 +10,7 @@ During the past hour I realised that this project might get quite a bit confusin
 
 ### So, What’s the Story?
 
-It all started rather relaxed. I only wanted to display a word count and the estimated reading time for articles in my German blog <a href="https://gwpachlatko.github.io/emwd">1 Minute Webdesign</a>. Since I had never seen these features in German–speaking blogs, I decided to write a nice little script to accomplish as much. Since the task was only a matter of minutes, I went a step further and expanded it to display information in various languages. And then the project sort of exploded.
+It all started rather relaxed. I only wanted to display a word count and the estimated reading time for articles in my German blog <a href="https://gwpachlatko.github.io/emwd">1 Minute Webdesign</a>. Since I had never seen these features in German–speaking blogs, I decided to write a nice little script to accomplish as much. That task was only a matter of minutes, so I went a step further and expanded it to display information in various languages … and then the project sort of exploded.
 
 I had already been lucky enough to find <a title="See the repository on GitHub" href="https://github.com/oncleben31/jekyll-date-basic-i18n">a lovely solution for German dates</a> (as opposed to the often seen “Denglish” version, using German words but English date conventions) by a fellow who calls himself <a title="Visit oncleben31 on GitHub" href="https://github.com/oncleben31/">oncleben31</a>.
 
