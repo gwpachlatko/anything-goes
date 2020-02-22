@@ -108,13 +108,13 @@ I already mentioned markup standards above. I noticed that Jekyll itself does no
 #### Cultural Peculiarities
 
 Different cultures tend to have different date conventions. Apparently, it’s less to do with the particular language, but with individual traditions. Some of that may be mended by “hacking the logic of the system” itself (<abbr>e.g.</abbr>, you add or omit a dot in the given date format, or set or omit a comma). That’s fine and won’t “disturb the system’s circles”.
-Yet I’m not particularly crazy about such measures, especially if I have to employ a language file, anyway.
+Yet I’m not particularly crazy about more drastic measures, especially if I have to employ a language file, anyway.
 
 Therefore, I wrote the “peculiarities” directly into the individual language files. So, for example, “Friday” will appear in Portuguese as “sexta–feira” and “<abbr>Fri</abbr>” as “sexta” (as I considered “6<sup>a</sup>.” a tad too informal for a blog post). Following the date conventions on this page,  today’s date would read “sexta–feira, 21 de fevereiro de 2020” rather than “sexta–feira, 21 fevereiro, 2020”. (I can only hope that those who already stopped reading did at least read the “Troubleshooting” part.)
 
 #### Copyright
 
-If you are going to use Ben’s scripts, consider yourself advised to acknowledge his copyright notice. As far as <em>Jekyll Lesezeit</em> (<a title="check out Jekyll Lesezeit on GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">the scripts in this repository</a>) are concerned, anything goes.
+If you are going to use Ben’s scripts, consider yourself advised to acknowledge his copyright notice. As far as <em>Jekyll Lesezeit</em> (<a title="check out Jekyll Lesezeit on GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">the scripts in this repository</a>) is concerned, anything goes.
 
 #### Live Demos
 
