@@ -44,6 +44,9 @@ a:visited { color: #111; text-decoration: underline; }
 a:link.tag { margin: 0 .405em; padding: .203em .405em; background: #600; color: #fff; border-radius: 5px; text-decoration: none; border: 1px #600 solid; }
 a:hover.tag { color: #111; background: #fff; text-decoration: none; border: 1px #eee solid; }
 a:visited.tag { color: #fff; background: #111; border: 1px #111 solid; }
+.hometags { margin-bottom: 0; padding-top: 10px; font-size: .809em; text-align: right; border-top: 1px #eee solid; }
+.read { font-size: .809em; text-align: right; }
+a:link.hometag { padding: 2px 5px; text-decoration: none; background-color: #eee; border-radius: 5px; }
 .post-title { font-size: 2.427em; line-height: 1.3em; margin-bottom: .809em; }
 .post-content ul li { padding-left: 25px; background: url(images/bullet.png) left 10px no-repeat ; list-style-type: none;}
 dt { border-bottom: 1px #333 solid; }

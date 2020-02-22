@@ -32,6 +32,26 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
         {% include read_more.html %}
+        <footer>
+          {% assign tags = post.tags %}
+          <p class="hometags">
+          {% for tag in tags %}
+          <a class="hometag" href="{{ site.baseurl }}/tags/#{{ tag | slugize }}">{{ tag }}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+          </p>
+          <p class="read">
+            {{ post.content | number_of_words | prepend: " " | append: " words" }} |
+{% assign words = post.content | number_of_words %}
+{% if words <= 180 %}
+  &#lt; 1 <abbr>min</abbr> read
+  {% elsif words > 180 and words < 360 %}
+  ~1 <abbr>min</abbr> read
+  {% elsif words >= 360 %}
+  {{ words | divided_by: 180 | append: " <abbr>min</abbr> read" }}
+{% endif %}
+          </p>
+        </footer>
       </article>
       {%- endfor -%}
     </div><!-- /front-page -->
