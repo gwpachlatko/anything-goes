@@ -75,9 +75,27 @@ Just as the “read more” link, I have seen the “previous and next” naviga
 
 Depending on your individual settings, the script will display “previous” and “next” in the respective language.
 
+#### Troubleshooting
+
+As expected, it was German that in combination with other languages led to problems. To have some wiggle room when messing with different dates, I omitted dot (after day) and comma (after month) in the date format of posts (<code>format=&#34;&#37;A, &#37;-d &#37;B &#37;Y&#34;</code>), as none of the other languages strictly require them. To me, it was an obvious decision: five times “nay(ish)”, once “aye” means “nay” — but then “Karl–Heinz” came along and demanded his dot after the date.
+
+The easiest workaround to keep the language files as system–agnostic as possible (and not mess with Uncle Ben’s code), and still give Karl–Heinz his beloved dot, was to squeeze a wee bit of additional code into the <code>post.html</code> layout. Like so,
+
+<pre>
+&lt;p class=&#34;post-meta&#34;&gt;
+  <strong>&#123;&#37; if page.lang == &#34;de&#34; &#37;&#125;
+  &#123;&#37;&#45; include translated_date.html date=page.date format=&#34;&#37;A, &#37;-d. &#37;B &#37;Y&#34; &#45;&#37;&#125;
+  &#123;&#37; else &#37;&#125;</strong>
+  &#123;&#37;&#45; include translated_date.html date=page.date format=&#34;&#37;A, &#37;-d &#37;B &#37;Y&#34; &#45;&#37;&#125;
+  <strong>&#123;&#37; endif &#37;&#125;</strong> — &#123;&#37;&#45; include lesezeit.html &#45;&#37;&#125;
+&lt;&#47;p&gt;
+</pre>   
+
+This way, the ordinals in German posts appear with and all others without the dot: “Freitag, 21. Februar 2020” (in German) but “Friday, 21 February 2020” (in English), “viernes, 19 de febrero de 2020” (in Spanish), and so on. Not a big deal, especially since you will mess with the layouts, anyway.  
+
 ### Why Even Bother?
 
- I don’t know if the precious reader has ever visited foreign language blogs. It can be quite intimidating to not immediately know your way around. You may understand the content of the article all right, because it happens to be in your native or in English, but the buttons and links immediately surrounding it may be in a language you are not familiar with. Hovering over them to wait for additional information to pop up is no use either, as this information — so there is any — is usually also in the language you are not familiar with. Is it any use to push this button or is it fine to follow that link?
+ I don’t know if the precious reader has ever visited foreign language blogs. It can be quite intimidating for more sensitive readers to not immediately know their way around. One may understand the content of the article all right, because it happens to be in one’s native or in English, but the buttons and links immediately surrounding it may be in a language one is not familiar with. Hovering over them to wait for additional information to pop up is no use either, as this information — so there is any at all — is usually also in the language one is not familiar with. Is it any use to push this button or is it fine to follow that link?
 
  Clearly, a visitor who navigates to an article from the home page does already know that the site’s global language is different from his or her native, but those following an external link may not. We all should remember that visitors often struggle with supposedly petty challenges designers did either dismiss as irrelevant or not consider at all — and therefore didn’t see coming.
 
@@ -92,11 +110,11 @@ I already mentioned markup standards above. I noticed that Jekyll itself does no
 Different cultures tend to have different date conventions. Apparently, it’s less to do with the particular language, but with individual traditions. Some of that may be mended by “hacking the logic of the system” itself (<abbr>e.g.</abbr>, you add or omit a dot in the given date format, or set or omit a comma). That’s fine and won’t “disturb the system’s circles”.
 Yet I’m not particularly crazy about such measures, especially if I have to employ a language file, anyway.
 
-Therefore, I wrote the “peculiarities” directly into the individual language files. So, for example, “Friday” will appear in Portuguese as “sexta–feira” and “<abbr>Fri</abbr>” as “sexta” (as I considered “6<sup>a</sup>.” a tad too informal for a blog post). Following the date conventions on this page,  today’s date would read “sexta–feira, 21 de fevereiro de 2020” rather than “sexta–feira, 21 fevereiro, 2020”.
+Therefore, I wrote the “peculiarities” directly into the individual language files. So, for example, “Friday” will appear in Portuguese as “sexta–feira” and “<abbr>Fri</abbr>” as “sexta” (as I considered “6<sup>a</sup>.” a tad too informal for a blog post). Following the date conventions on this page,  today’s date would read “sexta–feira, 21 de fevereiro de 2020” rather than “sexta–feira, 21 fevereiro, 2020”. (I can only hope that those who already stopped reading did at least read the “Troubleshooting” part.)
 
 #### Copyright
 
-If you use Ben’s scripts you are advised to acknowledge his copyright notice. As far as <em>Jekyll Lesezeit</em> (the scripts in this repository) are concerned, anything goes.
+If you are going to use Ben’s scripts, consider yourself advised to acknowledge his copyright notice. As far as <em>Jekyll Lesezeit</em> (<a title="check out Jekyll Lesezeit on GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">the scripts in this repository</a>) are concerned, anything goes.
 
 #### Live Demos
 
