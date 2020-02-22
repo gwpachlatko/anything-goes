@@ -77,7 +77,7 @@ Depending on your individual settings, the script will display “previous” an
 
 #### Troubleshooting
 
-As expected, it was German that in combination with other languages led to problems. To have some wiggle room when messing with different dates, I omitted dot (after day) and comma (after month) in the date format of posts (<code>format=&#34;&#37;A, &#37;-d &#37;B &#37;Y&#34;</code>), as none of the other languages strictly require them. To me, it was an obvious decision: five times “nay(ish)”, once “aye” means “nay” — but then “Karl–Heinz” came along and demanded his dot after the date.
+As expected, it was German that in combination with other languages led to problems. To have some wiggle room when messing with different dates, I omitted dot (after day) and comma (after month) in the date format of posts (<code>format=&#34;&#37;A, &#37;-d &#37;B &#37;Y&#34;</code>), as none of the other languages strictly require them. To me, it was an obvious decision: five times “nay(ish)”, once “aye” means “nay” — but then “Karl–Heinz” came along and demanded his dot after the ordinal.
 
 The easiest workaround to keep the language files as system–agnostic as possible (and not mess with Uncle Ben’s code), and still give Karl–Heinz his beloved dot, was to squeeze a wee bit of additional code into the <code>post.html</code> layout. Like so,
 
