@@ -41,7 +41,7 @@ layout: default
           {% endfor %}
           </p>
           <p class="read">
-            {{ post.content | number_of_words | prepend: " " | append: " words" }} |
+            {{ post.content | number_of_words | prepend: " " | append: " <abbr>wds</abbr>" }} |
 {% assign words = post.content | number_of_words %}
 {% if words <= 180 %}
   &#lt; 1 <abbr>min</abbr> read
