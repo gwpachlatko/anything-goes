@@ -36,7 +36,7 @@ Just leave me alone with your silly hair splitting, you may think. After all, di
 
 Google’s “page speed insights” are supposed to tell you how you could possibly reduce obstacles for your website’s good performance “in general”. In other words, what practices to introduce and which ones to better avoid to deliver a website that provides a reasonable user experience in the shortest possible time. That’s what the developer and designer may influence. Therefore, testing the same website twice in short succession should return identical results.
 
-Short of relapsing into the bad habit of “optimising for this or that environment”, there is no way of telling (let alone influencing) which device any one visitor is going to use to consume your website. I consider it safe to assume that’s nothing any of us wants. We’ve been there already and it was not a lovely.
+Short of relapsing into the bad habit of “optimising for this or that environment”, there is no way of telling (let alone influencing) which device any one visitor is going to use to consume your website. I consider it safe to assume that’s nothing any of us wants. We’ve been there already and it was not lovely.
 
 So why even put your website to the test? Naturally, I have no proof, but in general I would assume the whole point of “page speed insights” is to remind developers that there is always more than one way to every goal and more than one (type of) user to consider — and, of course, to avoid big blunders.
 
