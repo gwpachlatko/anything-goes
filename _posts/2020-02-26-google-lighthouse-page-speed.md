@@ -6,7 +6,7 @@ description: The personal opinion of a blogger who’s been there and done that 
 category: software
 tags: [SEO, Google, Opinion]
 ---
-It is perfectly comprehensible that we all want our own websites on page one of search results for certain keywords in every search engine there is — especially with Google, the quasi–standard when it comes to find and being found on the Internet. It also makes some sense that the speed at which our sites may be loaded by a browser and its overall performance are taken into account, but don’t lose your mind over it.<!--more-->
+It is perfectly comprehensible that we all want our own websites on page one of search results for certain keywords in every search engine there is — especially with Google, the quasi–standard when it comes to find and being found on the Internet. It also makes some sense that the speed at which our sites may be loaded by a browser and their overall performance are taken into account, but don’t lose your mind over it.<!--more-->
 
 ### Search Engine Optimization Is Important
 
@@ -64,4 +64,4 @@ It is obvious that Google is at odds with (some) <abbr>W3C</abbr> recommendation
 
 You may sit in a boat out on the sea and glimpse a light on the horizon. That’s fine, but it doesn’t mean you will also see land. If the light doesn’t change position, chances are it is a lighthouse. Then see to get there. If it keeps constantly moving, it’s probably just a cruise ship passing by at a distance. Then don’t waste your resources … and don’t lose your mind.
 
-In other words, it is good to have tools like Google’s “page speed insights” available. Use them to try and improve your website’s performance, but don’t consider them sacrosanct scriptures that have to be followed by the letter. 
+In other words, it is good to have tools like Google’s “page speed insights” available. Use them to try and improve your website’s performance, but don’t consider them sacrosanct scriptures that have to be followed by the letter.
