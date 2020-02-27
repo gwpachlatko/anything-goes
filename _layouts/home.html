@@ -44,7 +44,7 @@ layout: default
             {{ post.content | number_of_words | prepend: " " | append: " <abbr>wds</abbr>" }} |
 {% assign words = post.content | number_of_words %}
 {% if words <= 180 %}
-  &#lt; 1 <abbr>min</abbr> read
+  &lt; 1 <abbr>min</abbr> read
   {% elsif words > 180 and words < 360 %}
   ~1 <abbr>min</abbr> read
   {% elsif words >= 360 %}

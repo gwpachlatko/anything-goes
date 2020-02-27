@@ -22,7 +22,7 @@ img { width: 100%; height: auto; }
 }
 .page-content { margin-top: 100px; }
 .teaser { padding: 10px; border: 1px #111 solid; }
-.postmeta { margin: 3em 0; padding: .809em 0 .405em; border-top: 1px #eee solid; border-bottom: 1px #eee solid; }
+.postmeta { font-size: .809em; margin: 3em 0; padding: .809em 0 .405em; border-top: 1px #eee solid; border-bottom: 1px #eee solid; }
 .tag-list { line-height: 2.427em; margin-bottom: 2em; padding: .405em auto; text-align: center; }
 .rss-subscribe { margin-top: 1em; }
 .footer-col { width: 48%; }
@@ -41,7 +41,7 @@ h4 { font-family: "Abril Fatface", serif; font-size: 20px; text-align: center; }
 a:link { color: #900; text-decoration: underline }
 a:hover { color: #111; text-decoration: none; }
 a:visited { color: #111; text-decoration: underline; }
-a:link.tag { margin: 0 .405em; padding: .203em .405em; background: #600; color: #fff; border-radius: 5px; text-decoration: none; border: 1px #600 solid; }
+a:link.tag { margin: 0 4px; padding: 4px 8px; background: #600; color: #fff; border-radius: 5px; text-decoration: none; border: 1px #600 solid; }
 a:hover.tag { color: #111; background: #fff; text-decoration: none; border: 1px #eee solid; }
 a:visited.tag { color: #fff; background: #111; border: 1px #111 solid; }
 .hometags { margin-bottom: 0; padding-top: 10px; font-size: .809em; text-align: right; border-top: 1px #eee solid; }
