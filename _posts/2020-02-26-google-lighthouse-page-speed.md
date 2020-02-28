@@ -42,7 +42,7 @@ So why even put your website to the test? Naturally, I have no proof, but in gen
 
 Is a page scoring high more likely to rank better? I’d say, “it depends” (on a variety of other factors, and on who is running it). If your scores influenced your ranking really that much, a lot of rather well–known websites would never show in your search results — including some famed for their overall design and actual ranking (not to mention the testing page itself).
 
-### Don’t Worry (too much) about Mixed Signals
+### Don’t Worry (too much) About Mixed Signals
 
 At times, you may find yourself on the receiving end of quite confusing messages. Especially so, as compliance with web standards is repeatedly mentioned as a decisive factor for good ranking. The problem is, at least one of the practices Google strongly advocates is clearly contradicting web standard recommendations and will cause your website to fail validation (we are not talking “warnings”, but actual “errors”).
 
