@@ -20,7 +20,7 @@ After all, where does the abundance of perfectly irrelevant search results come 
 
 I already implied that search engines — particularly Google — consider (and honour) your website’s speed. To this end, a number of parameters, considered important for good user experience, are measured. That’s fine and dandy, and increasingly important. After all, we don’t have all day to wait for some content to eventually show and, perhaps, proof its worth to us.
 
-Yes, speed matters, but it should not be — and, in fact, is not — the be–all and end–all of great user experience. And it most certainly is not the “make or break” criterion for good ranking. Come to think of it, nothing is, really. Unless you blow it utterly and completely, chances are your site will appear on page one upon someone’s query — whether they were actually looking for content like yours or not.
+Yes, speed matters, but it should not be — and, in fact, is not — the be–all and end–all of great user experience. And it most certainly is not the “make or break” criterion for good ranking. Come to think of it, nothing is, really. Unless you seriously messed up your code, chances are your site will appear on page one upon someone’s query — whether they were actually looking for content like yours or not.
 
 As I said, <abbr>SEO</abbr> is not a science, and those speed tests and the insights you may (or may not) gain from them are not scientifically relevant — and, perhaps even more important, they are no golden ticket for page one, or two, or three …
 
