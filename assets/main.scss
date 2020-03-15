@@ -4,6 +4,7 @@
 /* CUSTOMISED STYLES */
 
 /* LAYOUT */
+.clip { position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; overflow: hidden; white-space: nowrap; }
 .site-header { border-top: none; padding-bottom: 1em; background-color: #600; border-top: none; border-bottom: 2px #300 solid; position: fixed; z-index: 2; width: 100%; }
 .site-title { padding-left: 35px; background: url(images/logo.png) 0 14px no-repeat; }
 .site-nav { top: 22px; }
@@ -57,6 +58,19 @@ blockquote {color: #111; border-left: 5px solid #eee; font-size: 1em; letter-spa
 figcaption { font-size: .809em; }
 figcaption p.person:before { content:"\2014 " }
 sup, sub { font-size: 14px; }
+
+.navigation { position: absolute; top: 16px; right: 20px; color: #fff;}
+.sidenav{height: 35%;width: 0;position: fixed;z-index: 2;top: 0;right: 0;background-color: #111;overflow-x: hidden;transition: 0.5s;padding-top: 60px;}
+.sidenav a {padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: #818181;display: block;transition: 0.3s;}
+.sidenav a:active, .sidenav a:focus, .sidenav a:hover{
+  color: #f1f1f1;
+}
+.active{background-color: rgba(60,0,0,.9);border-left: 10px solid rgba(128,0,0,1);
+}
+.opennav{position:absolute;top:10px;right:10px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
+.closenav{position:absolute;top:26px;right:30px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
+.material-icons { position: absolute; top: 12%; right: 12%;}
+.navbar li { list-style: none; margin-left: -2em; }
 
 .footer-heading { margin-bottom: .809em; text-align: left; font-size: 1.1em; }
 .footer-col-wrapper { color: #000; font-size: .809em; }

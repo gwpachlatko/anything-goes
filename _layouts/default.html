@@ -7,14 +7,17 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+    <main id="content" class="page-content" aria-label="Content">
 
         {{ content }}
       </div><!-- /wrapper -->
     </main>
 
     {%- include footer.html -%}
-
+    <script>
+    function openNav(){document.getElementById("sideNav").style.width = "240px";}
+    function closeNav(){document.getElementById("sideNav").style.width = "0";}
+    </script>
   </body>
 
 </html>

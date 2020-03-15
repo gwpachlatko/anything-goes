@@ -34,7 +34,7 @@ layout: default
         {% include read_more.html %}
         <footer>
           {% assign tags = post.tags %}
-          <p class="hometags">
+          <p class="hometags"><span class="clip">Tags: </span>
           {% for tag in tags %}
           <a class="hometag" href="{{ site.baseurl }}/tags/#{{ tag | slugize }}">{{ tag }}</a>
           {% unless forloop.last %}&nbsp;{% endunless %}

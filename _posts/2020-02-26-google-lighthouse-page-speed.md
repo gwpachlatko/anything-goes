@@ -14,7 +14,7 @@ Yes, Search Engine Optimization (<abbr>SEO</abbr>) is important when you want yo
 
 Yet … <abbr>SEO</abbr> is not a science — at least not by traditional definition. A cynic would probably state that it is equal parts art and voodoo. I would not go as far as that, but I do find it difficult to completely and utterly deny the pinch of truth in that notion.
 
-After all, where does the abundance of perfectly irrelevant search results come from, with the great many of <abbr>SEO</abbr> tools available and already implemented? And where are the many excellent websites, when we search for relevant keywords? And, last but not least, why is it that websites advocating certain practices do not also implement them? It’s like seeing a Vidal Sassoon model run about with a miserable hairdo — each and every day.  
+After all, where does the abundance of perfectly irrelevant search results come from, despite a great many <abbr>SEO</abbr> tools available and already implemented? And where are the many excellent websites, when we search for relevant keywords? And, last but not least, why is it that websites advocating certain practices do not also implement them? It’s like seeing a Vidal Sassoon model run about with a miserable hairdo — each and every day.  
 
 ### Speed Tests Are Important
 
