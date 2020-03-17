@@ -6,12 +6,13 @@
 /* LAYOUT */
 .clip { position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; overflow: hidden; white-space: nowrap; }
 .site-header { border-top: none; padding-bottom: 1em; background-color: #600; border-top: none; border-bottom: 2px #300 solid; position: fixed; z-index: 2; width: 100%; }
-.site-title { padding-left: 35px; background: url(images/logo.png) 0 14px no-repeat; }
-.site-nav { top: 22px; }
+.site-title { position:absolute; top: 12px; left: 20px; padding-left:33px; background: url(images/logo.png) 0 14px no-repeat; }
 figure { margin:1.618em auto; }
 img { width: 100%; height: auto; }
 .youtube{ position: relative; margin-bottom: 1em; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
 .youtube iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+.navigation { float: right; margin-top:-3px; margin-right: 20px; color: #fff; }
+.header-wrapper { position: absolute; top:0; left:0; width: 100%;}
 .front-wrapper { margin: 0 auto; padding: 0 10px; }
 .front-page {
   display: grid;
@@ -58,26 +59,14 @@ blockquote {color: #111; border-left: 5px solid #eee; font-size: 1em; letter-spa
 figcaption { font-size: .809em; }
 figcaption p.person:before { content:"\2014 " }
 sup, sub { font-size: 14px; }
-
-.navigation { position: absolute; top: 16px; right: 20px; color: #fff;}
-.sidenav{height: 35%;width: 0;position: fixed;z-index: 2;top: 0;right: 0;background-color: #111;overflow-x: hidden;transition: 0.5s;padding-top: 60px;}
-.sidenav a {padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: #818181;display: block;transition: 0.3s;}
-.sidenav a:active, .sidenav a:focus, .sidenav a:hover{
-  color: #f1f1f1;
-}
-.active{background-color: rgba(60,0,0,.9);border-left: 10px solid rgba(128,0,0,1);
-}
-.opennav{position:absolute;top:10px;right:10px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
-.closenav{position:absolute;top:26px;right:30px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
-.material-icons { position: absolute; top: 12%; right: 12%;}
-.navbar li { list-style: none; margin-left: -2em; }
-
 .footer-heading { margin-bottom: .809em; text-align: left; font-size: 1.1em; }
 .footer-col-wrapper { color: #000; font-size: .809em; }
 .site-footer ul li { margin-left: -2em; margin-bottom: .405em; list-style: none; }
 .site-footer a.tag { margin-left: 0; }
 .post-meta { font-size: .809em; color: #000; border-top: 1px #111 solid; border-bottom: 1px #111 solid; text-align: center; }
 
-@media (min-width: 37.55em){
-.site-nav .page-link { color: #fff; }
-}
+.navigation ul li a:link, .navigation ul li a:visited {font-family: "Abril Fatface", serif; color: #000;}
+.navigation ul li { background: #fffff5; display: block; float: right; padding: .405em; position: relative; text-decoration: none; transition-duration: 0.5s; border: 1px solid #000; }
+.navigation ul li ul { visibility: hidden; opacity: 0; min-width: 8em; position: absolute; transition: all 0.5s ease; top: 52px; right: -1px; display: none; }
+.navigation ul li:hover > ul, .navigation ul li:focus-within > ul { visibility: visible; opacity: 1; display: block; }
+ul li ul li { clear: both; width: 100%; }
