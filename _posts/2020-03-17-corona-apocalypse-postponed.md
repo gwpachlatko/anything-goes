@@ -2,7 +2,7 @@
 layout: post
 title: Apocalypse Postponed Until Further Notice
 date: 2020-03-17 14:31:29 +0100
-description: If we continue like this, the virus will soon be less of a problem than our response to it.
+description: If we go on like this, the virus will be a smaller problem than our reaction to it. Stop panic shopping already.
 category: business
 tags: [Corona, Opinion]
 ---
