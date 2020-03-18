@@ -22,7 +22,7 @@ Covid–19, affectionately called “Corona”, is not our ultimate challenge, t
 
 I hear people, even experts, say “it’s a situation we have never had before”. That’s true, except that it is crap (if you are inclined to pardon my French). Yes, some of us have never <em>personally</em> experienced a pandemic disease and most of were not even born when the worst pandemic flu ever recorded in human history took place. But to pretend that we have no strategy or tactics handy to get going, is to admit that we've spent the past hundred years in an intellectual vacuum.
 
-We are humans, supposedly a rational species. We do have options. We may consider our actions and plan carefully, we have experiences and information to learn and draw conclusions from, and we are able to act according to our knowledge (or so theory goes).
+We are humans, supposedly a rational species. We do have options. We may consider our actions and plan carefully, we have experiences and information to learn and draw conclusions from, and we are able to act according to our knowledge (or so the story goes).
 
 If I’m not completely mistaken, there have been four or five pandemic flus since the infamous Spanish Flu of 1918 — not to mention other highly contagious diseases that could be stopped from spreading in the nick of time. Statistically, that’s one pandemic per generation. But we still pretend to be caught off guard?
 
