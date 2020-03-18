@@ -16,7 +16,9 @@ Only a week ago, half of Europe was piqued at the Trumpster’s announcement to 
 
 We are eventually forced to think for ourselves, because we realise that we are not living in cloud cuckoo land. Well, some still do, but this will change soon.
 
-Covid–19, affectionately called “Corona”, is not our ultimate challenge. Of course, it is quick, not visible to the naked eye, and far superior to us in numbers. But it is only a virus, after all (and quite obviously, it is not remotely as virulent as Ebola nor does it appear to kill as quickly as the Spanish Flu used to).
+### Corona Is Not the Ultimate Challenge
+
+Covid–19, affectionately called “Corona”, is not our ultimate challenge, though. Granted, it is quick, not visible to the naked eye, and far superior to us in numbers. But it is only a virus, after all (and quite obviously, it is not remotely as virulent as Ebola nor does it appear to kill as quickly as the Spanish Flu used to). Our ultimate challenge will be to overcome our established thinking patterns, especially the idea that the individual is above society.
 
 I hear people, even experts, say “it’s a situation we have never had before”. That’s true, except that it is crap (if you are inclined to pardon my French). Yes, some of us have never <em>personally</em> experienced a pandemic disease and most of were not even born when the worst pandemic flu ever recorded in human history took place. But to pretend that we have no strategy or tactics handy to get going, is to admit that we've spent the past hundred years in an intellectual vacuum.
 
@@ -71,4 +73,4 @@ This is, of course, the epitome of obtuseness. Catering to a non–existent need
 
 People will grab whatever they can get their hands on without thinking whether or not they actually need the particular product. This will cause the manufacturers and suppliers to raise the prices. Rising prices will lead people to panic even more. And governments will have no choice left, but to ration food in order to stop speculators and to maintain the basic supply of the population. Then, you will have an empty wallet, an empty stomach, but still a virus.
 
-Yes, Corona is a serious virus. But if we continue to react blindly and undermine our own supply, it will be the least of our concerns before long.
+Yes, Corona is a serious virus. But if we continue to react blindly and so undermine our own defence, it will be the least of our concerns before long.
