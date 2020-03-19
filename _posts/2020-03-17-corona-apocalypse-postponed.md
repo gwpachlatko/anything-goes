@@ -53,7 +53,7 @@ The secondary effect of panic shopping is that suppliers will also have to trave
 
 To some extent, I do understand why people start hoarding toilet paper; it may be used in a variety of ways and is considerably cheaper than handkerchiefs and kitchen towels. (Just wait another month or two, though. Then, you will have to give your firstborn for a single roll.)
 
-Buying disinfectants by the gallon makes much less sense, though. If you stay at home for at least a fortnight, you at to equal odds already carrying the virus (or are exposed to it because someone in your family is infected) or not. If you don’t stay at home, you have no serious way of telling how or by whom you will contract it. Either way, you will not need more disinfectants than usual.
+Buying disinfectants by the gallon makes much less sense, though. If you stay at home for at least a fortnight, you are at equal odds already carrying the virus (or are exposed to it because someone in your family is infected) or not. If you don’t stay at home, you have no serious way of telling how or by whom you will contract it. Either way, you will not need more disinfectants than usual.
 
 Stocking up on staple food and everyday products is reasonable, but buying five or ten times your usual supply of olive oil (to name but one example) is only good for the manufacturers of these commodities. If a litre of olive oil (to stick with this example) usually lasts, say, a week, buying three litres for a two–week quarantine is still reasonable, but ten litres are not. Such behaviour only leads to immediate bottlenecks in the supply chain — and eventually more panic.
 
@@ -71,6 +71,6 @@ Another (practically) inevitable consequence of such unreasonable “preparation
 
 This is, of course, the epitome of obtuseness. Catering to a non–existent need is wrong in more than one respect. First, these products have a short expiry date. Second, they can only be safely stored under protective conditions. And last but not least, this type of oversupply is fuelling another wave of panic shopping. And the vicious circle will remain unbroken …
 
-People will grab whatever they can get their hands on without thinking whether or not they actually need the particular product. This will cause the manufacturers and suppliers to raise the prices. Rising prices will lead people to panic even more. And governments will have no choice left, but to ration food in order to stop speculators and to maintain the basic supply of the population. Then, you will have an empty wallet, an empty stomach, but still a virus.
+People will grab whatever they can get their hands on without thinking whether or not they actually need the particular product. This will cause the manufacturers and suppliers to raise the prices. Rising prices will lead people to panic even more. And governments will have no choice left, but to ration food in order to stop speculators and to maintain the basic supply of the population. Then, you will have an empty wallet and an empty stomach, but still a virus.
 
 Yes, Corona is a serious virus. But if we continue to react blindly and so undermine our own defence, it will be the least of our concerns before long.
