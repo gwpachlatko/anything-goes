@@ -40,7 +40,7 @@ This virus is transferred through droplets of moisture expelled upon respiration
 
 Either this, or I have to assume that willingly exchanging body fluids with perfect strangers is common practice in Wuhan and elsewhere (which I honestly doubt).
 
-Consequently, to be somewhat safe, one would have to wear a moisture proof mask that well covers mouth and nose, which is either thoroughly disinfected upon returning home or, perhaps even better, boiled in water at 70&deg; Celsius (158&deg; Fahrenheit) for several minutes.
+Consequently, to be somewhat safe, one would have to wear a moisture proof mask that well covers mouth and nose and protective goggles, which are either thoroughly disinfected upon returning home or, perhaps even better, boiled in water at 70&deg; Celsius (158&deg; Fahrenheit) for several minutes.
 
 
 ### Stop Panic Shopping!
