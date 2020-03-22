@@ -9,7 +9,7 @@ tags: [Corona, Opinion]
 
 This certain little bugger, emerging a mere couple of weeks ago, certainly made us reconsider our ways: everyday chores and habits we thought well established and proper, are now under close scrutiny — by ourselves, our fellows, and even authorities.
 
-Among the abundance of information happily peddled during the past week, one revelation made me literally bump my head against the (thoroughly disinfected) wall. Adults need to be explained the benefits of washing their hands with soap? Oh, boy …
+Among the abundance of information happily peddled during the past week, one revelation made me literally bang my head against the (thoroughly disinfected) wall. Adults need to be explained the benefits of washing their hands with soap? Oh, boy …
 <!--more-->
 
 I usually try to keep the level of readability below high school level. Today, owing to the trivial topic, I shall try harder and aim at primary school level, even. This should help reach certain politicians, apparently still living in caves, and their mindless following.
