@@ -34,9 +34,9 @@ Instead, rinse your hands. Take some soap and rub it all over your wet hands for
 
 Twenty seconds or longer (if you scrub thoroughly) is important, because you want to get the cleaning agents (the stuff your soap is made of) everywhere (palms, back, between your fingers, and under your nails). The more places you scrub, the more germs you will kill.
 
-What happens then? Like the soap, germs are made of a number of substances (stuff); mostly protein and fat, covering the stuff that makes you sick. Like germs, soaps do react with all matters they get in touch. Germs use the fat in their coat to protect themselves and to cling to surfaces. Soap reacts to water and to fat, clinging to the first and absorbing the latter.
+What happens then? Like the soap, germs are made of a number of substances (stuff); mostly protein and fat, covering the stuff that makes you sick. Like germs, soaps do react with all matters they touch. Germs use the fat in their coat to protect themselves and to cling to surfaces. Soap reacts to water and to fat, clinging to the first and absorbing the latter.
 
-This breaks the germs coats, it dries up and cracks. They cannot cling to surfaces anymore. Therefore, broken parts and the pathogen (the stuff that makes you sick) can be rinsed off. Your hands (or any other surfaces) are squeaky clean again.
+This breaks the germs’ coats; they dry out and crack. They cannot cling to surfaces anymore. Therefore, broken parts and the pathogen (the stuff that makes you sick) can be rinsed off. Your hands (or any other surfaces) are squeaky clean again.
 
 Don’t use bleach or substances that contain “at least 60 % of alcohol” (as is often advised across the internet) regularly. It dries out your skin and so makes it more vulnerable to germs. If you have to, see to remoisturise your hands with lotion after you washed them. But make sure to thoroughly clean both your soap dispenser and the container of your conditioner while you clean your hands (rather than afterwards), or you will sooner or later contaminate the conditioner — and keep the bloody lid closed in the meantime.
 
