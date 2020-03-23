@@ -22,7 +22,7 @@ But it also has openings we cannot seal and guard at all times (even though it w
 
 Most of the foreigners are not bad at all. Some are even necessary to help us keep the body healthy. Yet we call all of them “germs”. We usually do not bother to tell them apart. That’s good for some of them but bad for us.
 
-People easily confuse the proper way to face individual infections. They take the wrong measures to cure themselves. They offer others silly advice, happily multiplied by “Doctor Google”, with the best of intentions. And even real doctors sometimes give sick people the wrong treatment because of this. That’s really bad. The evil invaders need no friends with enemies like them — and other stubborn ignorants.
+People easily confuse proper ways to face individual infections. They take the wrong measures to cure themselves. They offer others silly advice, happily multiplied by “Doctor Google”, with the best of intentions. And even real doctors sometimes give sick people the wrong treatment because of this. That’s really bad. The evil invaders need no friends with enemies like them — and other stubborn ignorants.
 
 Telling people to wash their hands with soap more often is good advice. There is no evil intention behind it. It is no liberal conspiracy (when two or more people plan to do something bad) to try and sell more soap, or something. Because it really doesn’t matter which soap you use.
 
