@@ -62,3 +62,8 @@ sup, sub { font-size: 14px; }
 .navigation ul li ul { visibility: hidden; opacity: 0; min-width: 8em; position: absolute; transition: all 0.5s ease; top: 52px; right: -1px; display: none; }
 .navigation ul li:hover > ul, .navigation ul li:focus-within > ul { visibility: visible; opacity: 1; display: block; }
 ul li ul li { clear: both; width: 100%; }
+@media (min-width: 63.236em) {
+body { font-size: 1.3em; }
+.footer-heading { font-size: 1.1em; }
+.wrapper { width: 30em; }
+}
