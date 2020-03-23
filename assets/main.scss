@@ -10,7 +10,7 @@ figure { margin:1.618em auto; }
 img { width: 100%; height: auto; }
 .youtube{ position: relative; margin-bottom: 1em; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
 .youtube iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
-.navigation { float: right; margin-top:-2px; margin-right: 20px; color: #fff; }
+.navigation { float: right; margin-top:5px; margin-right: 20px; color: #fff; }
 .header-wrapper { position: absolute; top:0; left:0; width: 100%; }
 .front-wrapper { margin: 0 auto; padding: 0 16px; }
 .front-page {display: grid;grid-template-columns: repeat( auto-fit, minmax(420px, 1fr) );grid-gap: 1em;margin: 0 auto;padding: 0 auto;max-width: 111em;}
@@ -24,7 +24,7 @@ img { width: 100%; height: auto; }
 .contact-list { margin-top: 0; }
 
 /* TYPOGRAPHY */
-body { font-family: serif; font-size: 1.3em; line-height: 1.618em; background-color: #fffff5; }
+body { font-family: serif; font-size: 1em; line-height: 1.618em; background-color: #fffff5; }
 .site-title, .site-title:visited { font-family: serif; font-size: 35px; color: #fff; }
 .site-nav .page-link { color: #111; }
 h2, h3 { font-family: serif; text-align: center; font-weight:700; }
