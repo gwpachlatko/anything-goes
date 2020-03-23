@@ -71,6 +71,6 @@ Another (practically) inevitable consequence of such unreasonable “preparation
 
 This is, of course, the epitome of obtuseness. Catering to a non–existent need is wrong in more than one respect. First, these products have a short expiry date. Second, they can only be safely stored under protective conditions. And last but not least, this type of oversupply is fuelling another wave of panic shopping. And the vicious circle will remain unbroken …
 
-People will grab whatever they can get their hands on without thinking whether or not they actually need the particular product. This will cause the manufacturers and suppliers to raise the prices. Rising prices will lead people to panic even more. And governments will have no choice left, but to ration food in order to stop speculators and to maintain the basic supply of the population. Then, you will have an empty wallet and an empty stomach, but still a virus.
+People will grab whatever they can get their hands on without thinking whether or not they actually need the particular product. This will cause the manufacturers and suppliers to raise the prices. Rising prices will lead people to panic even more. And governments will have no choice left but to ration food in order to stop speculators and to maintain the basic supply of the population. Then, you will have an empty wallet and an empty stomach, but still a virus.
 
 Yes, Corona is a serious virus. But if we continue to react blindly and so undermine our own defence, it will be the least of our concerns before long.
