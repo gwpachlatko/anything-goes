@@ -14,7 +14,7 @@ Among the abundance of information happily peddled during the past week, one rev
 
 I usually try to keep the level of readability below high school level. Today, owing to the trivial topic, I shall try harder and aim at primary school level, even. This should help reach certain politicians, apparently still living in caves, and their mindless following.
 
-### Personal Hygiene How–To, Conservative Politican and Mindless Follower Edition
+### Personal Hygiene How–To, Conservative Politician and Mindless Follower Edition
 
 The human body is like a sovereign country. This country has a huge wall all around it. We call this wall “skin”. The skin is protecting the body from a good deal of evil invaders and sometimes quite harmless foreign matter.
 
