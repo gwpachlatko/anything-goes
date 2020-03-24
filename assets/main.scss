@@ -13,7 +13,7 @@ img { width: 100%; height: auto; }
 .navigation { position: relative; float: right;margin-top:3px; right: 20px; color: #fff; }
 .header-wrapper { position: absolute; top:0; left:0; width: 100%; }
 .front-wrapper { margin: 0 auto; padding: 0 16px; }
-.front-page {display: grid;grid-template-columns: repeat( auto-fit, minmax(420px, 1fr) );grid-gap: 1em;margin: 0 auto;padding: 0 auto;max-width: 111em;}
+.front-page {display: grid;grid-template-columns: repeat(auto-fit, minmax(27em, 1fr));grid-gap: 1em;margin: 0 auto;padding: 0 auto;max-width: 111em;}
 .page-content { margin-top: 100px; }
 .post {margin:0 auto; max-width: 30em; font-size: 1.3em;line-height:1.618em;}
 .teaser { margin: 0 auto; padding: 10px; border: 1px #111 solid; }

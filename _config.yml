@@ -34,6 +34,7 @@ baseurl: "/anything-goes" # the subpath of your site, e.g. /blog
 url: "https://gwpachlatko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gwpachlatko
 linkedin_username: gerald-w-pachlatko
+rss: RSS feed
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
