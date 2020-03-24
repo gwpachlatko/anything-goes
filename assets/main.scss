@@ -3,6 +3,7 @@
 @import "minima";
 /* CUSTOMISED STYLES */
 /* LAYOUT */
+*{margin:0;padding:0;font-size:100%;font:inherit;vertical-align:baseline}
 .clip { position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; overflow: hidden; white-space: nowrap; }
 .site-header { position: fixed; z-index: 2; top: 0; left: 0; width: 100%; height: 77px; background-color: #600; border-top: none; border-bottom: 2px #300 solid; }
 .site-title { position:absolute; top: 12px; left: 20px; padding-left:33px; background: url(images/logo.png) 0 14px no-repeat; }
@@ -13,7 +14,8 @@ img { width: 100%; height: auto; }
 .navigation { position: relative; float: right;margin-top:3px; right: 20px; color: #fff; }
 .header-wrapper { position: absolute; top:0; left:0; width: 100%; }
 .front-wrapper { margin: 0 auto; padding: 0 16px; }
-.front-page {display: grid;grid-template-columns: repeat(auto-fit, minmax(27em, 1fr));grid-gap: 1em;margin: 0 auto;padding: 0 auto;max-width: 111em;}
+.front-page {display:grid;grid-template-columns:repeat(auto-fit,minmax(26em,1fr));grid-gap:1em;margin:0 auto 42px;padding:0 auto;max-width:110em}
+
 .page-content { margin-top: 100px; }
 .post {margin:0 auto; max-width: 30em; font-size: 1.3em;line-height:1.618em;}
 .teaser { margin: 0 auto; padding: 10px; border: 1px #111 solid; }
@@ -57,8 +59,12 @@ sup, sub { font-size: 14px; }
 .site-footer a.tag { margin-left: 0; }
 .post-meta { font-size: .809em; color: #000; border-top: 1px #111 solid; border-bottom: 1px #111 solid; text-align: center; }
 
+.toggle {position:absolute;top:0;right:0;border:1px solid #fff;cursor:pointer;}
 .navigation ul li a:link, .navigation ul li a:visited {font-family: serif; color: #000;}
 .navigation ul li { background: #fffff5; display: block; float: right; padding: .405em; position: relative; text-decoration: none; transition-duration: 0.5s; border: 1px solid #000; }
 .navigation ul li ul { visibility: hidden; opacity: 0; min-width: 8em; position: absolute; transition: all 0.5s ease; top: 39px; right: -1px; display: none; }
 .navigation ul li:hover > ul, .navigation ul li:focus-within > ul { visibility: visible; opacity: 1; display: block; }
 ul li ul li { clear: both; width: 100%; }
+@media (max-width: 31em){
+.front-page {display:grid;grid-template-columns:90vw;grid-gap:1em;margin:0 auto 42px;padding:0 auto;}
+}
