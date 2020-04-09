@@ -24,7 +24,7 @@ layout: default
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  Published in: <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category | capitalize }}</a>
+  Published in: <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{ category | capitalize }}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
         </p>
@@ -36,7 +36,7 @@ layout: default
           {% assign tags = post.tags %}
           <p class="hometags"><span class="clip">Tags: </span>
           {% for tag in tags %}
-          <a class="hometag" href="{{ site.baseurl }}/tags/#{{ tag | slugize }}">{{ tag }}</a>
+          <a class="hometag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
           {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
           </p>

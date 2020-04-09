@@ -30,15 +30,13 @@ The following part removes dulpicated categories and invalid categories like bla
 
 {% for category in categories %}
 <dl>
-	<dt><h3 id="{{ category | slugify }}">Category: {{ category | capitalize }}</h3></dt>
-	<dl>
+	<dt id="{{ category | slugify }}">{{ category | capitalize }}</dt>
 	 {% for post in site.posts %}
 		 {% if post.categories contains category %}
-		 <dd><p>
+		 <dd>
 		 <a title="Read article: {{ post.title }}" href="{{site.baseurl}}{{ post.url }}">
-		 {{ post.title }}</a> <small>on {{ post.date | date_to_string }}</small></p>
+		 {{ post.title }}</a> <small>on {{ post.date | date_to_string }}</small>
 	   </dd>
-
 		 {% endif %}
 	 {% endfor %}
 	</dl>

@@ -57,7 +57,8 @@ If you wish to have posts in different languages (anything other than the global
 <pre>
 ---
 title: The Post You Want to Write in Another Language
-<strong>lang: xx</strong> &lt;!-- again, replace xx with the code of the desired language --&gt;
+<strong>lang: xx</strong> &lt;!-- again, replace xx with the code of the
+desired language --&gt;
 date: YYYY-MM-DD HH:MM:SS
 description: yada yada
 ---
@@ -84,9 +85,11 @@ The easiest workaround to keep the language files as system–agnostic as possib
 <pre>
 &lt;p class=&#34;post-meta&#34;&gt;
   <strong>&#123;&#37; if page.lang == &#34;de&#34; &#37;&#125;
-  &#123;&#37;&#45; include translated_date.html date=page.date format=&#34;&#37;A, &#37;-d. &#37;B &#37;Y&#34; &#45;&#37;&#125;
+  &#123;&#37;&#45; include translated_date.html date=page.date
+  format=&#34;&#37;A, &#37;-d. &#37;B &#37;Y&#34; &#45;&#37;&#125;
   &#123;&#37; else &#37;&#125;</strong>
-  &#123;&#37;&#45; include translated_date.html date=page.date format=&#34;&#37;A, &#37;-d &#37;B &#37;Y&#34; &#45;&#37;&#125;
+  &#123;&#37;&#45; include translated_date.html date=page.date
+  format=&#34;&#37;A, &#37;-d &#37;B &#37;Y&#34; &#45;&#37;&#125;
   <strong>&#123;&#37; endif &#37;&#125;</strong> — &#123;&#37;&#45; include lesezeit.html &#45;&#37;&#125;
 &lt;&#47;p&gt;
 </pre>   
