@@ -152,7 +152,7 @@ Because different countries have different risk assessment guidelines and differ
 
 Wouldn’t it be more sensible to keep people from leaving a country (which one ever) without a negative test result, regardless of time or direction? After all, the goal is (said to be) the containment of a virus — and this way, it would be considerably easier to trace possible contacts, too.
 
-Now, you could, of course, tell me, “well, man, you got the policies all backwards — you are the idiot”, but than I would have to answer that I’m apparently not the only one.
+Now, you could, of course, tell me, “well, man, you got the policies all backwards — you are the idiot”, but then I would have to answer that I’m apparently not the only one.
 
 The other day, I had a chat with a fellow who had just returned from a journey through three neighbouring countries, and here’s what he told me:
 
