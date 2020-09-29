@@ -9,14 +9,14 @@ tags: [Corona, Opinion, Health, Economy]
 
 It goes without saying that I am all for keeping the death toll as low, those of delicate health as protected, and the general situation in intensive care units across the country as relaxed as any possible.
 
-Until about a week ago, I was convinced that the government is trying their best to accomplish just that but lacks in terms of proper communication. I might have been wrong, though.
+Until about a week ago, I was convinced that the government is trying their best to accomplish just that but simply lacks in terms of proper communication. I might have been wrong, though.
 
 Quite a number of policies issued of late show signs of confusion and distress — to suspect that our authorities also lack both direction and focus is not so far–fetched, I’m afraid.
 <!--more-->
 
 Some weeks ago, I had a brief chat with one of my neighbours. Of course, we were also discussing the latest policies then issued and how these were, would, and might be affecting all of us: the economy, society in general, but also us mere individuals.
 
-“Who do you think would have done better [as a chancellor in this situation]?” he asked. I confessed that I could not think of anyone in particular who would have done better. Simply because the situation was — and still is — such that a government (or anyone) can not succeed. The stated goal can only be to fail less miserably.
+“Who do you think would have done better [as a chancellor in this situation]?” he asked. I confessed that I could not think of anyone in particular who would have done better. Simply because the situation was — and still is — such that a government (or anyone, really) can not succeed. The stated goal can only be to fail less miserably.
 
 ### Never Rely on Statistics That Contain No Conclusive Information
 
@@ -32,7 +32,7 @@ The given situation in a neighbouring (or any one) country is perfectly irreleva
 
 ### We Are Doing Better, Because …
 
-I hereby request that the next Austrian politician (whoever that may be) who is mindless enough to publicly declare that “we are mastering the crisis better than others, because we made the right decisions in good time”, will be removed from office immediately. Because we didn’t. We were merely lucky enough to have not experienced an epidemic thus far.
+I hereby request that the next Austrian politician (whoever that may be) who is mindless enough to publicly declare that “we are mastering the crisis better than others, because we made the right decisions in good time”, be removed from office immediately. Because we didn’t. We were merely lucky enough to have not experienced an epidemic thus far.
 
 Granted, it is true that some state leaders have missed an opportunity (or two) to take sensible countermeasures, but pretending that we have done better is disgustingly arrogant political chatter. This is true for both Austria and the <abbr>EU</abbr>, by the way.
 
@@ -96,15 +96,15 @@ Clearly, those were the days of “perplexity and uncertainty” and, to be perf
 
 Even if that should have been the general scientific prognosis at the time, fanning the flames of fear was somewhat unnecessary. Dramatic predictions that fail to come true add little to your credibility. And, of course, they weaken your position, if further strict measures should actually become necessary at a later point.
 
-However, if he already knew that this was a gross exaggeration of the general situation, he has bluntly lied to our faces to sanctify future measures. That would have been populism at its worst — something one would expect of the likes of the sitting American president, yet not of the leader of a democratic country.
+However, if he already knew that this was a gross exaggeration of the general situation, he has boldly lied to our faces to sanctify future measures. That would have been populism at its worst — something one would expect of the likes of the sitting American president, yet not of the leader of a democratic country.
 
 In the meantime, there has been a noticeable rise in resistance among the population even to relatively moderate protective measures — this is also a logical consequence of the tactics to take to political alarmism in the early days. Only a fool would expect the greater public to accept a further lockdown (let alone another national shutdown) easily.
 
 ### Useless Measures (Or If They Come to Your Rescue, Run)
 
-A weird example of an attempt to help restaurants and pubs, which are among the companies most severely affected by the lockdown in Vienna, is the “gastro voucher” (German: Gastro–Gutschein), introduced by the City of Vienna and the Viennese Chamber of Commerce.
+A weird example of an attempt to help restaurants and pubs, which are among the enterprises most severely affected by the lockdown in Vienna, is the “gastro voucher” (German: Gastro–Gutschein), introduced by the City of Vienna and the Viennese Chamber of Commerce.
 
-The unsuspecting reader may think such sounds like a brilliant idea. People receive a voucher worth €25 (single household) or €50 (multi-person household), which they can spend in a restaurant or pub of their choice. The company has a turnover that it might not otherwise have. Things are at last looking up again, right?
+The unsuspecting reader may think such sounds like a brilliant idea. People receive a voucher worth €25 (single household) or €50 (multi-person household), which they can spend in a restaurant or pub of their choice. Publicans will have a turnover that they might not otherwise have. Things are at last looking up again, right?
 
 Not so quick. Let’s have a look at some figures, shall we? (I dare say, the commercial the Viennese Chamber of Commerce launched at around the same time — “1 coffee may save the day, 2 may save the café” — was just as successful at a considerably lower expense.)
 
@@ -126,7 +126,7 @@ It takes a darn fool to expect people in austere times to eat out in excess of t
 
 For those running a restaurant, however, it is safe to expect that they had more trouble than countable profit. In a restaurant I happen to know  — and we are not talking some joint on the dark side of the moon —  the total revenue attributable to the vouchers for the entire duration of the campaign was comparable to a slow morning on any day before the lockdown.  
 
-Each restaurant had to open an account and individually register each branch they wanted to take part in the campaign on a website that had been created for this purpose, the vouchers had to be scanned by the staff upon reception, booked in the cash register system as cashless receipts to be settled later, and then confirmed again (on mentioned website) in order to redeem them and get their money back.
+Each restaurant had to open an account and individually register each branch they wanted to take part in the campaign on a website that had been created for this purpose, the vouchers had to be scanned by the staff upon reception, the original stored in a dry place, the amount booked in the cash register system as cashless receipts to be settled later, and then the vouchers had to be confirmed again (on mentioned website) in order to redeem them and eventually receive the money (one fine day).
 
 It’s (at the time of writing) not quite clear when exactly the money will be paid out to individual participants, but obviously not before the end of the campaign (30 September 2020). So basically, it was not a “boost for the economy” but rather a “promise to boost the economy” almost everyone involved would have been better off without.
 
@@ -148,7 +148,7 @@ Granted, it’s nice to unexpectedly save, say, €200 on a new <abbr>TV</abbr> 
 
 Yet the darndest nonsense off all has to be the “returning home from a high–risk country” regulation. People who travelled to high–risk countries have to produce a negative test (not older than 72 hours) upon their return or spend two weeks in quarantine — but only if the visited country already had been assessed as high–risk area at the time of entry. However, if the country was classified as a high–risk country during the stay, this rule does not appear to apply.
 
-Because different countries have different risk assessment guidelines and different regulations to address a given situation, there is a significant gap in time for people to try to find a route to return home without being properly tested or required to quarantine.
+Because different countries have different risk assessment guidelines and different regulations to address a given situation, there is a significant gap in time, allowing people to try and find a route to return home without being properly tested or required to quarantine.
 
 Wouldn’t it be more sensible to keep people from leaving a country (which one ever) without a negative test result, regardless of time or direction? After all, the goal is (said to be) the containment of a virus — and this way, it would be considerably easier to trace possible contacts, too.
 
@@ -156,11 +156,11 @@ Now, you could, of course, tell me, “well, man, you got the policies all backw
 
 The other day, I had a chat with a fellow who had just returned from a journey through three neighbouring countries, and here’s what he told me:
 
-“They were supposed to leave every other seat empty, but our bus was packed, not one empty seat left, and none of the passengers were family or friends. We crossed three borders, but none of the officials even mentioned that we were not supposed to travel this way, let alone stopped us from leaving one country or entering another.”
+“We were supposed to leave every other seat empty, but our bus was packed, not one empty seat left, and none of the passengers were family or friends. We crossed three borders, but none of the officials even mentioned that we were not supposed to travel this way, let alone stopped us from leaving one country or entering another.”
 
 In the early days of the lockdown, I had a chat with a neighbour, and here’s what he told me:
 
-“A friend’s wife is working at an intensive care unit and had to tend a patient who tested positive, so she was sent home for two weeks to quarantine. Her husband [my neighbour’s friend] expected to be ordered for a test or, as a precaution, to be quarantined, seeing that he, as a family member, had also potentially been exposed to the virus. As he had neither been called, or visited, or otherwise informed how to go about his situation, he decided to stay home as well. Just to be sure. (To date, no one has contacted this fellow to have him tested, or tell him to quarantine.)”
+“A friend’s wife is working at an intensive care unit and had to tend a patient who tested positive, so she was sent home for two weeks to quarantine. Her husband [my neighbour’s friend] expected to be ordered for a test or, as a precaution, to be quarantined, seeing that he, as a family member, had also potentially been exposed to the virus. As he had neither been called, nor visited, or otherwise informed how to go about his situation, he decided to stay home as well. Just to be sure. (To date, no one has contacted this fellow to have him tested, or tell him to quarantine.)”
 
 To be clear about this: Nothing against precautions here, and happy about every campaign the government introduces to support the economy, but isn’t it about time we had a framework of measures that is less ambiguous, easy to communicate, and even easier to comply with?
 
