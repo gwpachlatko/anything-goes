@@ -2,7 +2,7 @@
 layout: post
 title: Strategy of Confusion
 date: 2020-04-28 14:31:29 +0100
-description: "How to wash your hands with soap, and why. Targeted readers: Preteens, politoid idiots, and their mindless followers."
+description: "Quite a number of policies issued of late show signs of confusion and distress — to suspect that our authorities also lack both direction and focus is not so far–fetched, I’m afraid."
 category: business
 tags: [Corona, Opinion, Health, Economy]
 ---
