@@ -106,7 +106,7 @@ A weird example of an attempt to help restaurants and pubs, which are among the 
 
 The unsuspecting reader may think such sounds like a brilliant idea. People receive a voucher worth €25 (single household) or €50 (multi-person household), which they can spend in a restaurant or pub of their choice. Publicans will have a turnover that they might not otherwise have. Things are at last looking up again, right?
 
-Not so quick. Let’s have a look at some figures, shall we? (I dare say, the commercial the Viennese Chamber of Commerce launched at around the same time — “1 coffee may save the day, 2 may save the café” — was just as successful at a considerably lower expense.)
+Not so quick. Let’s have a look at some figures, shall we? (I dare say, the adverts campaign the Viennese Chamber of Commerce launched at around the same time — “1 coffee may save the day, 2 may save the café” — was just as successful at a considerably lower expense.)
 
 #### The Voucher Scheme
 
