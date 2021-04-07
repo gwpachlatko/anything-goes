@@ -146,7 +146,7 @@ Granted, it’s nice to unexpectedly save, say, €200 on a new <abbr>TV</abbr> 
 
 #### Please Return Home Safely
 
-Yet the darndest nonsense off all has to be the “returning home from a high–risk country” regulation. People who travelled to high–risk countries have to produce a negative test (not older than 72 hours) upon their return or spend two weeks in quarantine — but only if the visited country already had been assessed as high–risk area at the time of entry. However, if the country was classified as a high–risk country during the stay, this rule does not appear to apply.
+Yet the darndest nonsense of all has to be the “returning home from a high–risk country” regulation. People who travelled to high–risk countries have to produce a negative test (not older than 72 hours) upon their return or spend two weeks in quarantine — but only if the visited country already had been assessed as high–risk area at the time of entry. However, if the country was classified as a high–risk country during the stay, this rule does not appear to apply.
 
 Because different countries have different risk assessment guidelines and different regulations to address a given situation, there is a significant gap in time, allowing people to try and find a route to return home without being properly tested or required to quarantine.
 
