@@ -104,7 +104,7 @@ In the meantime, there has been a noticeable rise in resistance among the popula
 
 A weird example of an attempt to help restaurants and pubs, which are among the enterprises most severely affected by the lockdown in Vienna, is the “gastro voucher” (German: Gastro–Gutschein), introduced by the City of Vienna and the Viennese Chamber of Commerce.
 
-The unsuspecting reader may think such sounds like a brilliant idea. People receive a voucher worth €25 (single household) or €50 (multi-person household), which they can spend in a restaurant or pub of their choice. Publicans will have a turnover that they might not otherwise have. Things are at last looking up again, right?
+The unsuspecting reader may think such sounds like a brilliant idea. People receive a voucher worth €25 (single household) or €50 (multi–person household), which they can spend in a restaurant or pub of their choice. Publicans will have a turnover that they might not otherwise have. Things are at last looking up again, right?
 
 Not so quick. Let’s have a look at some figures, shall we? (I dare say, the adverts campaign the Viennese Chamber of Commerce launched at around the same time — “1 coffee may save the day, 2 may save the café” — was just as successful at a considerably lower expense.)
 
