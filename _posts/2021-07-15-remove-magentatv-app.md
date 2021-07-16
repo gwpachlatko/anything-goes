@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Remove the Magenta TV App from Your Computer (If that Is What You Really Want)
-date: 2021-07-15 14:31:29 +0100
+date: 2021-07-15  14:31:29 +0100
 description: "A short tutorial to get rid of the app and a long–winded explanation you definitely should read."
 category: software
 tags: [Magenta, Apps, Linux, Tutorial]
@@ -53,7 +53,7 @@ Now, the app itself is basically a so–called desktop application. A file that 
 
 What it does is quickly told: nothing much, really. It opens a window (a browser window, basically) that looks fancy  and that’s that. There are no extra features (compared to streaming without it), and given its size (about 300 bytes) and the lack of relevant code, it’s safe to assume that there is no background activity, either. 
 
-What purpose could any background activity serve, anyway? Spying on you? Rather not. You have to have a user account and log in to their server this use their service. At that point, it is a bit late to have privacy concerns. They already know who you are and which shows you prefer to watch. The app is not likely to make any difference in this respect. If it were to gather information, using it would not be optional.
+What purpose could any background activity serve, anyway? Spying on you? Rather not. You have to have a user account and log in to their server to use their service. At that point, it is a bit late to have privacy concerns. They already know who you are and which shows you prefer to watch. The app is not likely to make any difference in this respect. If it were to gather information, using it would not be optional.
 
 At any rate, there are no software dependencies, it is literally “standalone”. Neither your operating system nor any of the other programs and applications sharing space on your hard drive are bothered by its presence or absence. So you are free to do whatever you see fit. 
 
