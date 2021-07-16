@@ -71,7 +71,7 @@ I don’t know, to be honest. If you don’t have more than one streaming servic
 
 <h3>How to Remove It?</h3>
 
-Locate the directory (folder) in the file system of your device where all applications (native and/or third-party) are stored. 
+Locate the directory (folder) in the file system of your device where all applications (native and/or third–party) are stored. 
 
 It is quite possible that there are several such directories (that depends on your software configuration). In that case, check the one that contains files related to the browser you chose to install the app. There should be a file following this name pattern: <code>nameofbrowser.stringofseeminglyrandomletters-Default.filetype</code>, something like, <code>chrome.noggbhnfgkiiclmcnnnplkapofincllj-Default.desktop</code>. Delete this file. (That “string of seemingly random letters” is your account <abbr>ID</abbr>, by the way.)
 
