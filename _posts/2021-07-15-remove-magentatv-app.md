@@ -59,7 +59,7 @@ At any rate, there are no software dependencies, it is literally “standalone�
 
 If you came here by accident, desperately trying to find a solution to remove a different <abbr>TV</abbr> streaming app, you may be lucky. It’s quite possible that your issue may be tackled the same (or at least a similar) way.
 
-So what you can do to make streaming possible is enable “Widevine”, when prompted to do so (usually when you launch the app for the first time) — if you missed that opportunity, you may do so in the browser settings (it’s an extension). That should mend all your performance issues (that appear to be browser–related). I trust you will be able to find out for yourself what “Widevine” is.
+So what you can do to make streaming possible is enable “Widevine”, when prompted to do so (usually when you launch the service for the first time) — if you missed that opportunity, you may do so in the browser settings (it’s an extension). That should mend all your performance issues (that appear to be browser–related). I trust you will be able to find out for yourself what “Widevine” is.
 
 All said so far applies to streaming movies from Netflix and a great many other services, too.
 
