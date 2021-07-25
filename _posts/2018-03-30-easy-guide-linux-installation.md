@@ -23,7 +23,7 @@ As a devout “Debianite” for more than a decade, I was confused. Was it my ow
 
 I had not become a Debian user by choice but rather by circumstance. Tired of the shenanigans of a particular operating system (<abbr>OS</abbr>) from a certain software factory, I paid the software shop I then used to frequent a visit and obtained a copy of the only Linux–based <abbr>OS</abbr> they had on stock.
 
-It happened to be one of Debian’s derivates. Installing it was a easy as pie and it gave me no headaches during daily work; I simply had no need to look any further. Perhaps, I was biased. I had to find out.
+It happened to be one of Debian’s derivates. Installing it was easy as pie and it gave me no headaches during daily work; I simply had no need to look any further. Perhaps, I was biased. I had to find out.
 
 So I tested nine randomly picked operating systems and eight desktop environments. Here’s a list in no particular order (terms in parentheses indicate the desktop environments tested with the respective <abbr>OS</abbr>):
 
