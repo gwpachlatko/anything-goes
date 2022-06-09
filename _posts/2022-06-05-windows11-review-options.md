@@ -11,7 +11,7 @@ tags: [Windows, Fedora, Review]
 
 <p>It’s not that I had demanded anything unreasonable, or made fun of its users, but my review was (to some degree) biased, and I didn’t want to be “that guy”. You know, those annoying characters who enjoy themselves giving out about a product, leaving their agitated audience without a proper counter concept or, at least, a spark of hope.</p>
 
-<p>So, I kept my words to myself and did a bit of “window shopping”, instead. It took a while, though — mainly because I assumed the role of the “average user” (the best I could).</p>
+<p>So, I kept my words to myself and did a bit of “window shopping”, instead. It took a while, though — mainly because I assumed the role of the “average user” (as best I could).</p>
 
 <p>It was not all smooth sailing, though, I might even have uttered a swear word or two. Yet at long last, I am able to report success. Here’s what I found …</p>
 <!--more-->
