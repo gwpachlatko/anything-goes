@@ -99,7 +99,7 @@ tags: [Windows, Review]
     </li>
 </ul>
 
-<p>There is no reason to collapse any part of this list, as neither is remotely long enough to sanctify an extra step. All directories listed under &#8220;Places&#8221; are the &#8220;usual suspects&#8221; when it comes to store the individual user&#8217;s personal files (these places are created by default &#8212; during installation of the operating system, that is &#8212; no guesswork or customisation necessary). All partitions listed under &#8220;Devices&#8221; represent hardware storages (<code>D:</code> being one of the default partitions on the hard drive, in this case).</p>
+<p>There is no reason to collapse any part of this list, as neither is remotely long enough to sanctify an extra step. All directories listed under &#8220;Places&#8221; are the &#8220;usual suspects&#8221; when it comes to store the individual user&#8217;s personal files (these places are created by default &#8212; during the installation of the operating system, that is &#8212; no guesswork or customisation necessary). All partitions listed under &#8220;Devices&#8221; represent hardware storages (<code>D:</code> being one of the default partitions on the hard drive, in this case).</p>
 
 <p>That, however, is not how Microsoft developers appear to define &#8220;efficiency and order&#8221;. Instead, upon expanding the above list, one is presented with the entire tree of directories located in the individual partition of the hard drive, represented by mentioned labels.</p>
 
