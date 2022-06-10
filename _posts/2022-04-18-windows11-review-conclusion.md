@@ -44,11 +44,11 @@ tags: [Windows, Review]
 
 <p>If we consider Windows 11 a general–purpose operating system (which I still believe is Microsoft’s definition of it), than the vast majority of users will have to be considered “average”. If the average user is commonly described as not particularly tech–savvy, then why are even the simplest things presented in such a cumbersome manner? Or even more pointedly, why keeps the operating system getting in the user’s way? But let’s not get too philosophical — or too specific …</p>
 
-<p>While writing this review, I spent some time in a number of forums where typical computer user issues are discussed. Interestingly, most (new) Linux users mentioned that they kept Windows only because of a number of games (sometimes even just one of those) they happen to play (sometime between “now and then” and “quite frequently”).</p>
+<p>While writing this review, I spent some time in a number of forums where typical computer user issues are discussed. Interestingly, most (new) Linux users mentioned that they kept Windows only because of a number of games (sometimes even just one of those) they happen to play (anywhere between “now and then” and “quite frequently”).</p>
 
 <p>Well, I, the man who does not know the first thing about computer games, am not in the place to offer any useful advice in this respect, but I am under the impression that I heard of game consoles having being a thing for quite a while. Is that no so, anymore? If so, what’s wrong with them? Perhaps, Microsoft should really focus on that area of digital work.</p>
 
-<p>Anyway, being able to play games on a personal computer may be fun, but it certainly is not the ultimate definition of general purpose. When it comes to everyday tasks and the infamous, alleged compatibility issues, I can confidently say that any Linux–based operating system I have tested thus far is considerably more advanced than even the latest version of Windows. And if all else fails, you can still run your Windows–based software in a virtual machine.</p>
+<p>Anyway, being able to play games on a personal computer may be fun, but it certainly is not the ultimate definition of “general purpose”. When it comes to everyday tasks and the infamous, alleged compatibility issues, I can confidently say that any Linux–based operating system I have tested thus far is considerably more advanced than even the latest version of Windows. And if all else fails, you can still run your Windows–based software in a virtual machine.</p>
 
 <h3>But … but Windows Is Easier to Use!</h3>
 
