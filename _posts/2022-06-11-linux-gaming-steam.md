@@ -14,7 +14,7 @@ tags: [Linux, Fedora, Steam, Gaming]
 <p>When I mentioned those (new) Linux users who reported to only still cling to <a href="{{ site.baseurl }}{% post_url 2022-04-18-windows11-review-conclusion %}">Windows for the sake of gaming</a>, I began to wonder why that may be so. Are these fellows just too lazy or ignorant to venture to new horizons or are manufacturers just too focused on catering to the biggest fish in the pond to break new ground? I decided to take a lazy afternoon to find useful answers to these questions.</p>
 <!--more-->
 
-<p>When I installed and explored <a rel="external" href="https://getfedora.org/">Fedora 36 Workstation</a> to investigate and offer possible alternatives to Windows 11, I came across a term again, I had repeatedly read before in passing, but never really given much consideration.</p>
+<p>When I installed and explored <a rel="external" href="https://getfedora.org/">Fedora 36 Workstation</a> to investigate and offer possible alternatives to Windows 11, I came across a term again I had repeatedly read before in passing, but never really given much consideration.</p>
 
 <p><a rel="external" href="https://store.steampowered.com/">Steam</a> appeared to be a gateway of sorts into the gaming world, but I couldn’t be bothered to explore that avenue further (due to my, by now, sufficiently discussed general lack of interest in the matter). Yet …</p>
 
