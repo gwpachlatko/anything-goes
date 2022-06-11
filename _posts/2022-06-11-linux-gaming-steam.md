@@ -28,7 +28,7 @@ tags: [Linux, Fedora, Steam, Gaming]
 
 <p>Installing the launcher for the Steam software distribution service was a piece of cake. It’s available via “Software”, <abbr>GNOME</abbr>’s graphical user interface of the repository, and it takes up only 3.7 <abbr>MB</abbr> when installed.</p>
 
-<p>To get anywhere, I had to register (for free). Well, then. I picked a character from a novel I had read earlier as my screen name and created a password that would take a battery of gaming computers a thousand years to crack.</p>
+<p>To get anywhere, I had to register (for free). Well, then. As my screen name, I picked a character from a novel I had read earlier. Then I created a password that would take a battery of gaming computers a thousand years to crack.</p>
 
 <p>(I know, immature, new–kid–on–the–block behaviour. The server won’t give a flying eff about any user’s password so long as it meets the minimum criteria. But hey, this was a once–in–a–lifetime opportunity to prove who’s the boss — soon enough, I would be humiliated, being shown to the room where they play tic–tac–toe, because that’s the farthest I would get with my emaciated yellow mare. I was bound to be ridiculed like old D’Artagnon upon his arrival in the big city, but I was set to enjoy the show, while it lasted.)</p>
 
