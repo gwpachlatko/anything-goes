@@ -30,9 +30,9 @@ tags: [Linux, Fedora, Steam, Gaming]
 
 <p>To get anywhere, I had to register (for free). Well, then. As my screen name, I picked a character from a novel I had read earlier. Then I created a password that would take a battery of gaming computers a thousand years to crack.</p>
 
-<p>(I know, immature, new–kid–on–the–block behaviour. The server won’t give a flying eff about any user’s password so long as it meets the minimum criteria. But hey, this was a once–in–a–lifetime opportunity to prove who’s the boss — soon enough, I would be humiliated, being shown to the room where they play tic–tac–toe, because that’s the farthest I would get with my emaciated yellow mare. I was bound to be ridiculed like old D’Artagnon upon his arrival in the big city, but I was set to enjoy the show, while it lasted.)</p>
+<p>(I know, immature, new–kid–on–the–block behaviour. The server won’t give a flying eff about any user’s password so long as it meets the minimum criteria. But hey, this was a once–in–a–lifetime opportunity to prove who’s the boss — soon enough, I would be humiliated, being shown to the room where they play tic–tac–toe, because that’s the farthest I would get with my emaciated yellow mare. I was bound to be ridiculed like old D’Artagnan upon his arrival in the big city, but I was set to enjoy the show, while it lasted.)</p>
 
-<p>Just like old D’Artagnon I was utterly amazed at the abundance of sites this big city provided. Lacking experience in the field, I had not even thought about obvious details such as what genre I should turn to. The choice of categories was overwhelming, to say the least.</p>
+<p>And just like old D’Artagnan, I was utterly amazed at the abundance of sites this big city provided. Lacking experience in the field, I had not even thought about obvious details such as what genre I should turn to. The choice of categories was overwhelming, to say the least.</p>
 
 <p>While I still mulled over a reasonable way to narrow down the possibilities to remain managable inside of the timeframe I had set for this quest, I realised that I had another impediment: I didn’t know the lingo.</p>
 
