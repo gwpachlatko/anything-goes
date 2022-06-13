@@ -20,7 +20,7 @@ Also, please know that neither <em>Jekyll Lesezeit</em> as a repository nor any 
 
 Testing my script, I figured that it made little sense for the reader to have the word count and reading time in one language, and the date of the publication in another. And what about the “next” and “previous” links? So I wrote some more code … and yet more.
 
-Now, here we are: One can have a, say, German–speaking blog, and still write individual posts in other languages, with “read more” link, publication date, word count, reading time, and the “<abbr>prev/next</abbr>” navigation in the respective post language. And it’s rather easy to implement the scripts — individually or combined.
+Now, here we are: One can have a, say, German–language blog, and still write individual posts in other languages, with “read more” link, publication date, word count, reading time, and the “<abbr>prev/next</abbr>” navigation in the respective post language. And it’s rather easy to implement the scripts — individually or combined.
 
 At the time of writing these lines, there are six languages available: English (default), German, French, Italian, Spanish, and Portuguese.
 
