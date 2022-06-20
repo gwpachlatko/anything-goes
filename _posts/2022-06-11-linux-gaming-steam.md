@@ -42,7 +42,7 @@ tags: [Linux, Fedora, Steam, Gaming]
 
 <p>Since I had no intention of being trapped in a maze of bit and bytes like a moth in a shoe box in the back of the closet, I decided to pick the first game that would be “free to play”, require me to download less than 3 <abbr>GB</abbr> of data, and be not utterly hideous to look at.</p>
 
-<p>Five minutes later (and about twenty minutes after I had installed “Steam”), I was playing a game on a Linux–based computer — and another two minutes later, I was already bored beyond words (probably just as much as I would be on a Windows–based gaming service).</p>
+<p>Five minutes later (and about twenty minutes after I had installed “Steam”), I was playing a game on a Linux–based computer — and another two minutes later, I was already bored beyond words (probably just as much as I would be on a Windows–based gaming platform).</p>
 
 <p>Yet my entertainment was not the prime objective of this quest. What I had set out to find, was the answer to the question whether or not it is possible to play decent games on a Linux–based computer.</p>
 
