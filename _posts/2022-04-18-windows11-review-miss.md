@@ -37,7 +37,7 @@ tags: [Windows, Review]
 
 <h3>Offline Tutorial</h3>
 
-<p>Those 50 <abbr>MB</abbr> were much better invested in a <abbr>PDF</abbr> document that ships with the operating system, providing the average (as well as the more experienced) user with sufficient information as to how everything works. At a rough estimation, that e&#8211;book could run 5000 pages of text &#8212; at any rate, enough to get &#8220;better informed average users&#8221; &#8212; if it ran only one tenth of this page count, there would even be plenty of space left for detailed images.</p>
+<p>Those 50 <abbr>MB</abbr> were much better invested in a <abbr>PDF</abbr> document that ships with the operating system, providing the average (as well as the more experienced) user with sufficient information as to how everything works. At a rough estimate, that e&#8211;book could run 5000 pages of text &#8212; at any rate, enough to get &#8220;better informed average users&#8221; &#8212; if it ran only one tenth of this page count, there would even be plenty of space left for detailed images.</p>
 
 <h3>Repository</h3>
 

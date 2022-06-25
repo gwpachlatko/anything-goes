@@ -27,7 +27,9 @@ tags: [Windows, Review]
 
 <h3>Edge</h3>
 
-<p>Granted, even the latest version of Microsoft&#8217;s browser is no serious match for Brave or Vivaldi, but, to be honest, I&#8217;d be hard pressed, if I had to decide between Firefox or Chrome or Edge. Is it possible that some do not actually criticise these products, but rather their producers? Make no mistake, all mentioned browsers are supposed to garner revenue, none of them were developed without any economic purpose, for the pure benefit and joy of the end user.</p>
+<p>Granted, even the latest version of Microsoft&#8217;s browser is no serious match for <a rel="external" title="go to the home page of Brave" href="https://brave.com/">Brave</a> or <a rel="external" title="go to the home page of Vivaldi" href="https://vivaldi.com/">Vivaldi</a>, but, to be honest, I&#8217;d be hard pressed, if I had to decide between <a rel="external" title="go to the home page of Firefox" href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>, or <a rel="external" title="go to the home page of Google Chrome" href="https://www.google.com/chrome/">Chrome</a>, or Edge.</p>
+
+<p>Is it, after all, possible that some do not actually criticise these products, but rather their producers? Make no mistake, all mentioned browsers are supposed to garner revenue, none of them were developed without any economic purpose, for the pure benefit and joy of the end user.</p>
 
 <p>As for Edge, I coudn&#8217;t say that any of its features would strike me as particularly useful, but I can see how some people prefer it to any of its contenders (if, perhaps, mostly because it ships with the operating system). I for one wouldn&#8217;t mind, if I had to use it exclusively.</p>
 
@@ -49,11 +51,11 @@ tags: [Windows, Review]
 
 <h3>Support</h3>
 
-<p>The last, but certainly not least, of the things I did like may come as a surpise for many a reader. Yet Microsoft&#8217;s Support should not be confused with their &#8220;Online Help&#8221; or even their local &#8220;Troubleshooting&#8221; (or whatever you want to call that nonsense). The former is a bunch of knowledgeable and actively helpful people, the latter are a waste of time.</p>
+<p>The last, but certainly not least, of the things I did like may come as a surprise for many a reader. Yet Microsoft&#8217;s Support should not be confused with their &#8220;Online Help&#8221; or even their local &#8220;Troubleshooting&#8221; (or whatever you want to call that nonsense). The former is a bunch of knowledgeable and actively helpful people, the latter are a waste of time.</p>
 
 <p>The copy of Windows 11 I tested shipped with a trial version of the &#8220;Family Edition&#8221; of Microsoft 365 (the Office Suite). It automatically renews to the Family Edition after the trial period expires, unless one stops the subscription before the deadline (which might lead to a loss of whatever one may have produced during the trial period, if one did not have the mind to make copies of their produce).</p>
 
-<p>Basically, I don&#8217;t mind their marketing plan (of course, they try to collect money wherever they may), the concept as such is not bad (and they are quite open about it). However, I really have no use for a 6&#8211;person subscription (or a 6 <abbr>TB</abbr> cloud storage), and my internet connection is fast enough to use the remote Office Suite exclusively. On the other hand, I didn&#8217;t want to lose the opportunity to test the Office Suite for another while.</p>
+<p>Basically, I don&#8217;t mind their marketing plan (of course, they try to collect money wherever they may), the concept as such is not bad (and they are quite open about it). However, I really have no use for a 6&#8211;person subscription (or a cloud storage of 6 <abbr>TB</abbr>), and my internet connection is fast enough to use the remote Office Suite exclusively. On the other hand, I didn&#8217;t want to lose the opportunity to test the Office Suite for another while.</p>
 
 <p>Soon, I was set to keep Microsoft 365, but there was no (obvious) way to downgrade the renewal to a Single Edition subscription. This was an opportunity to test the support team, if ever I had seen one. I never tire to advise people to test the support team before signing a contract (if nothing else, take away this advise &#8212; it&#8217;s free and copyleft).</p>
 
