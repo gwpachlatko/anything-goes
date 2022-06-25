@@ -97,13 +97,13 @@ tags: [Windows, Review]
 
 <p>To put it mildly, having to turn to the &#8220;Control Panel&#8221; or the &#8220;Registry&#8221; to initiate even minor adaptations is a royal pain in the neck. Only very few changes need to be initialised, while the system is booted. So why make such a fuss? (Quite honestly, I cannot even remember when I last had to reboot a computer for any one change to take effect &#8212; most likely when I upgraded from Debian 10 to 11.)</p>
 
-<p>I had to take to the Registry Editor twice and the Control Panel once (and reboot the system each time) inside of the first two days, even though the changes I desired were by no means drastic. Still, even on day four, I&#8217;m still looking for a reliable way to set a global viewing mode for items in File Explorer, or keyboard shortcuts to launch certain applications.</p>
+<p>I had to take to the Registry Editor twice and the Control Panel once (and reboot the system each time) inside of the first two days, even though the changes I desired were by no means drastic. Still, even on day four, I haven&#8217;t found a reliable way to set a global viewing mode for items in File Explorer, or keyboard shortcuts to launch certain applications.</p>
 
 <p>For no obvious reason, applications are not responding to a shortcut I have already set several times. Checking these applications&#8217; properties (which happens to be a scavenger hunt of sorts), I find the respective entry to be gone again. Is this merely a bug or an incentive of sorts for the user to keep pinning a launcher of every thinkable application to the Desktop, Taskbar, or Start Menu?</p>
 
 <p>Seriously, if you still employ this abominable tactic &#8220;to gain quick access&#8221;, you have no idea how computers work. Without knowing you in person, precious reader, I can tell you this: The more launchers you have pinned to the Desktop or Taskbar, the less efficient your workflow.</p>
 
-<p>Obviously, every adjustment in &#8220;Settings&#8221; (or the &#8220;Control Panel&#8221; for that matter) triggers a new (or altered) entry in the &#8220;Registry&#8221;, anyway. So why should the average user even have to bother with the &#8220;Registry Editor&#8221;? And this brings us to the next question &#8230;</p>
+<p>Obviously, every adjustment in &#8220;Settings&#8221; (or the &#8220;Control Panel&#8221;, for that matter) triggers a new (or altered) entry in the &#8220;Registry&#8221;, anyway. So why should the average user even have to bother with the &#8220;Registry Editor&#8221;? And this brings us to the next question &#8230;</p>
 
 <h3>Permissions</h3>
 
