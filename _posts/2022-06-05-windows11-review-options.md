@@ -16,9 +16,9 @@ tags: [Windows, Fedora, Review]
 <p>It was not all smooth sailing, though, I might even have uttered a swear word or two. Yet at long last, I am able to report success. Here’s what I found …</p>
 <!--more-->
 
-<p>I did already know that of all available desktop environments (I have ever tested), <a re="external" title="Wikipedia article on KDE Plasma 5" href="https://en.wikipedia.org/wiki/KDE_Plasma_5"><abbr>KDE</abbr> Plasma 5</a> is the one that might “look and feel” most familiar to users of Windows 10 or 11. That is, the average Windows user is most likely to quickly (get that feeling that they) find their way around.</p>
+<p>I did already know that of all available desktop environments (I have ever tested), <a re="external" title="go to the home page of the KDE project" href="https://kde.org/"><abbr>KDE</abbr> Plasma 5</a> is the one that might “look and feel” most familiar to users of Windows 10 or 11. That is, the average Windows user is most likely to quickly (get that feeling that they might) find their way around.</p>
 
-<p>Why would that be relevant? Well, mostly because the vast majority of Windows users I have met thus far do not realise that what they see on their screens is not the operating system itself, but merely a Graphical User Interface (<abbr>GUI</abbr>) or Desktop Environment (<abbr>DE</abbr>) Microsoft had decided for their customers to use. They call it “Windows Shell”, by the way, and why it is the only one they offer is for them to know and everyone else to guess.</p>
+<p>Why would that be relevant? Well, mostly because the vast majority of Windows users I have met thus far do not realise that what they see on their screens is not the operating system itself, but merely a Graphical User Interface (<abbr>GUI</abbr>) — or Desktop Environment (<abbr>DE</abbr>) — Microsoft had decided for their customers to use. They call it “Windows Shell”, by the way, and why it is the only one they offer is for them to know and everyone else to guess.</p>
 
 <p>As you can (probably) sense, I did not properly research the matter, but mainly relied on personal experience and observation (all the “average user”).</p>
 
@@ -26,7 +26,9 @@ tags: [Windows, Fedora, Review]
 
 <p>Anyway, <abbr>KDE</abbr> Plasma 5 may look familiar, but, precious reader, be warned: It is not the least demanding desktop environment there is in the Linux world. You will probably be amazed at the abundance of unexpected opportunities suddenly unfolding before your eyes, but prepare for moments when you will have to keep yourself from hysterically yelling at your screen. <abbr>KDE</abbr> Plasma 5 is what the Windows Shell wants to become, once it’s eventually done growing up.</p>
 
-<p>Long story short, I would recommend to start out with GNOME (<abbr>GNU</abbr> Network Object Model Environment) — or, perhaps even <abbr>XFCE</abbr>. As luck would have it, the operating system that, I think, behaves most similar to Windows (at the time of writing) happens to ship with the GNOME shell (no worries, you may switch to <abbr>KDE</abbr> or any of a plethora of other <abbr>DEs</abbr>, whenever you please and feel confident enough — of course, you may also switch back at the next boot) — GNOME 42, to be precise.</p>
+<p>Long story short, I would recommend to start out with <a rel="external" title="go to the home page of The GNOME Project" href="https://www.gnome.org/">GNOME</a> (<abbr>GNU</abbr> Network Object Model Environment) — or, perhaps even <a rel="external" title="go to the home page of the XFCE Project" href="https://www.xfce.org/"><abbr>XFCE</abbr></a>.</p>
+
+<p>As luck would have it, the operating system that, I think, behaves most similar to Windows (at the time of writing) happens to ship with the GNOME shell (no worries, you may switch to <abbr>KDE</abbr> or any of a plethora of other <abbr>DEs</abbr>, whenever you please and feel confident enough — of course, you may also switch back at the next boot) — GNOME 42, to be precise.</p>
 
 <h3>Image Size and Installation</h3>
 
