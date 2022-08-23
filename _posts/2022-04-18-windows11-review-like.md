@@ -31,7 +31,7 @@ tags: [Windows, Review]
 
 <p>Is it, after all, possible that some do not actually criticise these products, but rather their producers? Make no mistake, all mentioned browsers are supposed to garner revenue, none of them were developed without any economic purpose, for the pure benefit and joy of the end user.</p>
 
-<p>As for Edge, I coudn&#8217;t say that any of its features would strike me as particularly useful, but I can see how some people prefer it to any of its contenders (if, perhaps, mostly because it ships with the operating system). I for one wouldn&#8217;t mind, if I had to use it exclusively.</p>
+<p>As for Edge, I coudn&#8217;t say that any of its features would strike me as particularly useful, but I can see how some people prefer it to any of its contenders (if, perhaps, mostly because it comes with the operating system). I for one wouldn&#8217;t mind, if I had to use it exclusively.</p>
 
 <p>Pretty much the same goes for &#8220;Microsoft Bing&#8221;, by the way. Using it appears to be no less useful (or useless) than using Google to search for information on the internet &#8212; and both gather and try to monetise information you provide (or why else would they gather it in the first place).</p>
 

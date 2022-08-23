@@ -25,7 +25,7 @@ tags: [Windows, Review]
 
 <p>What about the need to be proficient in the use of the command line, then? Granted, I do make heavy use the bash (at times, for a variety of tasks). Yet the reason for that is (in most cases) not a purely technical requirement; it&#8217;s about speed and efficiency &#8212; the &#8220;average&#8221; user can easily get by without ever launching it. What few routines actually do require the use of the command line under Linux, do also require it under Windows. The actual difference between these &#8220;unequal cousins&#8221; is, that the Linux command line works to the expectation of its &#8220;average&#8221; user.</p>
 
-<p>(I mean, just to provide a random example: The Windows PowerShell asks twice whether or not one wants to &#8220;Terminate [the] batch job&#8221; in response to <code>Ctrl+C</code>, which is supposed to terminate a running routine. What the heck!? Whatever the correct answer to this question in any one case &#8212; be it &#8220;Yes&#8221; or &#8220;No&#8221; &#8212; there is no justification for delaying the process unduly, by asking the same question twice. It is relative safe to assume that respective users know what they want, and why.)</p>
+<p>(Just to provide a random example: The Windows PowerShell asks twice whether or not one wants to &#8220;Terminate [the] batch job&#8221; in response to <code>Ctrl+C</code>, which is supposed to terminate a running routine. What the heck!? Whatever the correct answer to this question in any one case &#8212; be it &#8220;Yes&#8221; or &#8220;No&#8221; &#8212; there is no justification for delaying the process unduly, by asking the same question twice. It is relative safe to assume that respective users know what they want, and why.)</p>
 
 <h3>Microsoft Store</h3>
 
@@ -37,7 +37,7 @@ tags: [Windows, Review]
 
 <h3>Offline Tutorial</h3>
 
-<p>Those 50 <abbr>MB</abbr> were much better invested in a <abbr>PDF</abbr> document that ships with the operating system, providing the average (as well as the more experienced) user with sufficient information as to how everything works. At a rough estimate, that e&#8211;book could run 5000 pages of text &#8212; at any rate, enough to get &#8220;better informed average users&#8221; &#8212; if it ran only one tenth of this page count, there would even be plenty of space left for detailed images.</p>
+<p>Those 50 <abbr>MB</abbr> were much better invested in a <abbr>PDF</abbr> document that comes with the operating system, providing the average (as well as the more experienced) user with sufficient information as to how everything works. At a rough estimate, that e&#8211;book could run 5000 pages of text &#8212; at any rate, enough to get &#8220;better informed average users&#8221; &#8212; if it ran only one tenth of this page count, there would even be plenty of space left for detailed images.</p>
 
 <h3>Repository</h3>
 
@@ -137,4 +137,4 @@ tags: [Windows, Review]
 
 <p>Since I dropped the keyword already, let&#8217;s talk about security. Why does Windows 11 still ship with a trial version of a third&#8211;party Security Suite? That seems to indicate that Micorosoft does not put an awful lot of trust in their own &#8220;solution&#8221;. That, in turn, triggers a number of interesting questions. To wit:</p>
 
-<p>How is it that third&#8211;party tools are considered more reliable than anything Microsoft&#8217;s own developers manage to come up with? Or, to put it even more pointedly, does McAfee (the company whose Security Suite ships with Windows 11) know Windows better than Microsoft does? Then, why does Windows 11 even ship with its own Security Suite in addition to McAfee&#8217;s software (which basically renders Windows Security bloatware)?</p>
+<p>How is it that third&#8211;party tools are considered more reliable than anything Microsoft&#8217;s own developers manage to come up with? Or, to put it even more pointedly, does McAfee (the company whose Security Suite is included in Windows 11 by default) know Windows better than Microsoft does? Then, why does Windows 11 even ship with its own Security Suite in addition to McAfee&#8217;s software (which basically renders Windows Security bloatware)?</p>

@@ -16,7 +16,7 @@ tags: [Windows, Review]
 
 <p>It’s not so much to do with the fact that Windows is not open–source or free software (in the sense these terms are commonly defined in their respective context), or that one has to pay for it (there’s excellent open–source software that also have a price tag), but this one, I think, does not compensate the user sufficiently for their material expenses, let alone “sacrificing their software autonomy”.</p>
 
-<p>What’s that mean? Well, let’s approach this matter from a purely pragmatic angle, shall we? (If the precious reader happens to use Windows for sentimental reasons, now would be the perfect moment to leave this theatre in an orderly manner. Beyond here be … well… penguins!)</p>
+<p>What’s that mean? Well, let’s approach this matter from a purely pragmatic angle, shall we? (If the precious reader happens to use Windows for sentimental reasons, now would be the perfect moment to leave this theatre in an orderly manner. Beyond here be … well … penguins!)</p>
 
 <h3>Waste Not, Want Not</h3>
 
