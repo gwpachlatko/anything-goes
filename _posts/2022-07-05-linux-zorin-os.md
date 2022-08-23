@@ -24,7 +24,7 @@ tags: [Linux, Zorin, Mint, Solus]
 
 <h3>Your Computer, Your Choice</h3>
 
-<p>That I was not given a number of desktop environments (<abbr>DE</abbr>) to choose from surprised my at first. It wasn’t until I actually ran the distro (in a live session — always try out new distros before you go and shred your existing system, kids) that I realised it didn’t matter.</p>
+<p>That I was not given a number of desktop environments (<abbr>DE</abbr>) to choose from surprised me at first. It wasn’t until I actually ran the distro (in a live session — always try out new distros before you go and shred your existing system, kids) that I realised it didn’t matter.</p>
 
 <p>There was no need to decide on any particular <abbr>DE</abbr>, because Zorin let’s you switch desktop layouts on the fly. If you want your desktop to look and work the way you are used to from Windows, fine. If you’d rather have it the <abbr>GNOME</abbr> way, then go for it. Open an application called “Zorin Appearance”, and pick the structure you prefer.</p>
 
