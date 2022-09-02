@@ -26,7 +26,7 @@ To date, it is not even clear yet whether or not any of the statistics published
 
 <abbr>JHU</abbr> calculates their results based on figures drawn from a wide variety of sources (including social media outlets), while <abbr>RKI</abbr> counts cases reported by national health services only. Quite naturally, this leads to deviation. Yet deviation is definitely not what you want, when accurate information is paramount.
 
-Also, the wholesale collection of reported infections, deaths, and recoveries would be of use, if we already had a tested vaccine and were able to roll out a nationwide vaccination programme. Yet neither is to be expected for the time being. Consequently, these figures, routinely disseminated, only contribute to either public despair or false hopes.
+Also, the wholesale collection of reported infections, deaths, and recoveries would be of use, if we already had a tested vaccine and were able to roll out a nationwide vaccination programme. Yet neither is to be expected for the time being. Consequently, these numbers, routinely disseminated, only contribute to either public despair or false hopes.
 
 The given situation in a neighbouring (or any one) country is perfectly irrelevant for the development of one’s own strategy and tactics. To compare Italy, Sweden, Germany, the <abbr>US</abbr>, South Korea, and Austria (to name but a few) is comparing apples and oranges. In terms of population density and distribution, capacity of individual health systems and general resources, but also lifestyle and mentality.
 
@@ -106,7 +106,7 @@ A weird example of an attempt to help restaurants and pubs, which are among the 
 
 The unsuspecting reader may think such sounds like a brilliant idea. People receive a voucher worth €25 (single household) or €50 (multi–person household), which they can spend in a restaurant or pub of their choice. Publicans will have a turnover that they might not otherwise have. Things are at last looking up again, right?
 
-Not so quick. Let’s have a look at some figures, shall we? (I dare say, the adverts campaign the Viennese Chamber of Commerce launched at around the same time — “1 coffee may save the day, 2 may save the café” — was just as successful at a considerably lower expense.)
+Not so quick. Let’s have a look at some numbers, shall we? (I dare say, the adverts campaign the Viennese Chamber of Commerce launched at around the same time — “1 coffee may save the day, 2 may save the café” — was just as successful at a considerably lower expense.)
 
 #### The Voucher Scheme
 
